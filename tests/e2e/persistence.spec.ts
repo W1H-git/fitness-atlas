@@ -44,7 +44,10 @@ test('draft, actual training, reload and backup restore', async ({ page }, info)
   await expect(page.locator('.history-record')).toHaveCount(1)
   await page.getByLabel('选择备份文件', { exact: true }).setInputFiles(path)
   await expect(page.getByRole('heading', { name: '恢复预览' })).toBeVisible()
-  await page.getByRole('button', { name: '确认替换本机数据' }).click()
+  await Promise.all([
+    page.waitForEvent('load'),
+    page.getByRole('button', { name: '确认替换本机数据' }).click(),
+  ])
   await expect(page.locator('.history-record')).toHaveCount(1)
   await expect(page.locator('.history-record')).toContainText('10 kg')
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true)
