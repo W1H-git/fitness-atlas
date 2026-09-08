@@ -1,32 +1,8 @@
 <script setup lang="ts">
-import { onMounted, onUnmounted, ref } from 'vue'
-interface InstallEvent extends Event {
-  prompt: () => Promise<void>
-  userChoice: Promise<{ outcome: string }>
-}
-const installEvent = ref<InstallEvent | null>(null),
-  installed = ref(false),
-  error = ref('')
+import { ref } from 'vue'
+import { installEvent, installed } from '../../pwa/install'
+const error = ref('')
 const dev = import.meta.env.DEV
-const capture = (event: Event) => {
-  event.preventDefault()
-  installEvent.value = event as InstallEvent
-}
-const done = () => {
-  installed.value = true
-  installEvent.value = null
-}
-onMounted(() => {
-  installed.value =
-    window.matchMedia('(display-mode: standalone)').matches ||
-    (navigator as Navigator & { standalone?: boolean }).standalone === true
-  window.addEventListener('beforeinstallprompt', capture)
-  window.addEventListener('appinstalled', done)
-})
-onUnmounted(() => {
-  window.removeEventListener('beforeinstallprompt', capture)
-  window.removeEventListener('appinstalled', done)
-})
 async function install() {
   try {
     const event = installEvent.value

@@ -7,6 +7,8 @@ import './styles/training.css'
 import './styles/persistence.css'
 import './styles/pwa.css'
 import { registerPwa } from './pwa/register'
+import { captureInstallPrompt } from './pwa/install'
 
+captureInstallPrompt()
 createApp(App).use(createPinia()).use(router).mount('#app')
 registerPwa()

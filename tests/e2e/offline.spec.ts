@@ -9,6 +9,25 @@ async function ready(page: Page) {
   })
   await expect.poll(() => page.evaluate(() => !!navigator.serviceWorker.controller)).toBe(true)
 }
+test('install prompt received on home remains available after navigating to profile', async ({
+  page,
+}) => {
+  await page.goto(base)
+  await expect(page.getByRole('link', { name: '我的', exact: true })).toBeVisible()
+  await page.evaluate(() => {
+    const event = new Event('beforeinstallprompt', { cancelable: true })
+    Object.assign(event, {
+      prompt: async () => {
+        window.dispatchEvent(new Event('appinstalled'))
+      },
+      userChoice: Promise.resolve({ outcome: 'accepted' }),
+    })
+    window.dispatchEvent(event)
+  })
+  await page.getByRole('link', { name: '我的', exact: true }).click()
+  await page.getByRole('button', { name: '安装健身动作图鉴', exact: true }).click()
+  await expect(page.getByRole('heading', { name: '已在独立窗口中使用' })).toBeVisible()
+})
 test('full catalog download, offline navigation and training persistence', async ({
   page,
   context,
