@@ -1,0 +1,5742 @@
+{
+  "bench-press": {
+    "name": "杠铃卧推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Barbell", "Bench", "Rack"],
+    "illustrationNotes": []
+  },
+  "incline-bench-press": {
+    "name": "上斜杠铃卧推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "将训练凳调整为稳定上斜角度。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell", "Bench", "Rack"],
+    "illustrationNotes": []
+  },
+  "incline-dumbbell-press": {
+    "name": "上斜哑铃卧推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "将训练凳调整为稳定上斜角度。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "dumbbell-bench-press": {
+    "name": "哑铃卧推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "decline-bench-press": {
+    "name": "下斜杠铃卧推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "使用下斜训练凳并确认脚部支撑。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell", "Bench", "Rack"],
+    "illustrationNotes": []
+  },
+  "machine-chest-press": {
+    "name": "器械推胸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "decline-dumbbell-press": {
+    "name": "下斜哑铃卧推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "使用下斜训练凳并确认脚部支撑。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "smith-machine-bench-press": {
+    "name": "史密斯卧推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "按史密斯机固定轨迹调整站位，先设置安全限位。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "close-grip-bench-press": {
+    "name": "窄握杠铃卧推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "仰卧或坐稳于对应器械，双脚稳定支撑，肩胛保持稳定，手腕位于前臂延长线上。",
+      "屈肘将重量缓慢降至胸部附近的舒适范围，随后推起，双侧轨迹保持可控。",
+      "控制重量回到起始位置；结束时稳妥归位，不松手砸落。"
+    ],
+    "commonMistakes": ["手腕折弯", "臀部离开支撑", "在底部弹震"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell", "Bench", "Rack"],
+    "illustrationNotes": ["图帧看起来更接近仰卧臂屈伸，不能用于区分窄握卧推的肘部轨迹。"]
+  },
+  "pec-deck": {
+    "name": "蝴蝶机夹胸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或靠稳支撑，双肘微屈，在舒适范围展开双臂。",
+      "保持肘部弯曲角度基本不变，双臂沿弧线向胸前合拢。",
+      "缓慢展开回到起点，不追求肩关节过度后伸。"
+    ],
+    "commonMistakes": ["把夹胸做成伸肘推举", "手臂展开过深", "重量回落失控"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "cable-fly": {
+    "name": "绳索夹胸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或靠稳支撑，双肘微屈，在舒适范围展开双臂。",
+      "保持肘部弯曲角度基本不变，双臂沿弧线向胸前合拢。",
+      "缓慢展开回到起点，不追求肩关节过度后伸。"
+    ],
+    "commonMistakes": ["把夹胸做成伸肘推举", "手臂展开过深", "重量回落失控"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "dumbbell-fly": {
+    "name": "哑铃飞鸟",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或靠稳支撑，双肘微屈，在舒适范围展开双臂。",
+      "保持肘部弯曲角度基本不变，双臂沿弧线向胸前合拢。",
+      "缓慢展开回到起点，不追求肩关节过度后伸。"
+    ],
+    "commonMistakes": ["把夹胸做成伸肘推举", "手臂展开过深", "重量回落失控"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "incline-cable-fly": {
+    "name": "上斜绳索飞鸟",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或靠稳支撑，双肘微屈，在舒适范围展开双臂。",
+      "保持肘部弯曲角度基本不变，双臂沿弧线向胸前合拢。",
+      "缓慢展开回到起点，不追求肩关节过度后伸。"
+    ],
+    "commonMistakes": ["把夹胸做成伸肘推举", "手臂展开过深", "重量回落失控"],
+    "variationNote": "将训练凳调整为稳定上斜角度。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "push-up": {
+    "name": "俯卧撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "weighted-push-up": {
+    "name": "负重俯卧撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "额外负重应可靠固定；先掌握对应自重动作。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "incline-push-up": {
+    "name": "上斜俯卧撑",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 双手支撑在牢固高台上；台面越高通常越容易。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "双手支撑在牢固高台上；台面越高通常越容易。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Box"],
+    "illustrationNotes": []
+  },
+  "knee-push-up": {
+    "name": "跪姿俯卧撑",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 以膝盖为支点，保持膝、髋、肩大致成一直线。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "以膝盖为支点，保持膝、髋、肩大致成一直线。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "wide-push-up": {
+    "name": "宽距俯卧撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 双手略宽于肩；避免为了加宽而让肩部不适。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "双手略宽于肩；避免为了加宽而让肩部不适。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "diamond-push-up": {
+    "name": "钻石俯卧撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 双手靠近胸部下方；不必强求手指拼成菱形。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "双手靠近胸部下方；不必强求手指拼成菱形。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "decline-push-up": {
+    "name": "下斜俯卧撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 双脚放在牢固高台上，双手支撑地面。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "双脚放在牢固高台上，双手支撑地面。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Box"],
+    "illustrationNotes": []
+  },
+  "archer-push-up": {
+    "name": "弓箭俯卧撑",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 重心移向屈肘一侧，另一侧手臂辅助；左右交替。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "重心移向屈肘一侧，另一侧手臂辅助；左右交替。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "typewriter-push-up": {
+    "name": "打字机俯卧撑",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 在低位左右转移重心，能够控制后再推起。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "在低位左右转移重心，能够控制后再推起。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "explosive-push-up": {
+    "name": "爆发式俯卧撑",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 快速推起，落地时屈肘缓冲；先掌握普通俯卧撑。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "快速推起，落地时屈肘缓冲；先掌握普通俯卧撑。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "hindu-push-up": {
+    "name": "印度俯卧撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 从髋部抬高姿势向前下方穿行，再伸展上身；不挤压腰部。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "从髋部抬高姿势向前下方穿行，再伸展上身；不挤压腰部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "scapular-push-up": {
+    "name": "肩胛俯卧撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 肘部保持伸直，仅通过肩胛前伸与回收移动躯干。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "肘部保持伸直，仅通过肩胛前伸与回收移动躯干。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "push-up-shoulder-tap": {
+    "name": "俯卧撑交替触肩",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 完成一次俯卧撑后交替触碰对侧肩膀，骨盆保持稳定。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "完成一次俯卧撑后交替触碰对侧肩膀，骨盆保持稳定。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "wall-push-up": {
+    "name": "墙面俯卧撑",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "按变式建立稳定手脚或膝部支撑，收紧腹部，头颈自然。",
+      "控制屈肘下降，再通过手掌推起；特殊变式按补充说明改变轨迹。 双手扶墙，身体整体靠近墙面再推离。",
+      "回到稳定支撑位置后再重复，保持呼吸和躯干控制。"
+    ],
+    "commonMistakes": ["塌腰", "耸肩", "肘部过度外展", "动作幅度失控"],
+    "variationNote": "双手扶墙，身体整体靠近墙面再推离。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Wall"],
+    "illustrationNotes": []
+  },
+  "pike-push-up": {
+    "name": "折刀俯卧撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "双手稳固支撑，抬高髋部；倒立版本先确认平衡与退出空间。",
+      "控制屈肘下降，让肩部承担推力，避免头颈承重。",
+      "推起回到可控制的支撑姿势，失去平衡时及时安全退出。"
+    ],
+    "commonMistakes": ["头部撞地", "肘部突然外张", "超出平衡能力"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "feet-elevated-pike-push-up": {
+    "name": "抬脚折刀俯卧撑",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "双手稳固支撑，抬高髋部；倒立版本先确认平衡与退出空间。",
+      "控制屈肘下降，让肩部承担推力，避免头颈承重。 双脚置于牢固高台，维持髋部抬高姿势。",
+      "推起回到可控制的支撑姿势，失去平衡时及时安全退出。"
+    ],
+    "commonMistakes": ["头部撞地", "肘部突然外张", "超出平衡能力"],
+    "variationNote": "双脚置于牢固高台，维持髋部抬高姿势。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Box"],
+    "illustrationNotes": []
+  },
+  "wall-handstand-push-up": {
+    "name": "靠墙倒立撑",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "双手稳固支撑，抬高髋部；倒立版本先确认平衡与退出空间。",
+      "控制屈肘下降，让肩部承担推力，避免头颈承重。 墙面辅助平衡；先具备倒立控制能力，避免头颈承重。",
+      "推起回到可控制的支撑姿势，失去平衡时及时安全退出。"
+    ],
+    "commonMistakes": ["头部撞地", "肘部突然外张", "超出平衡能力"],
+    "variationNote": "墙面辅助平衡；先具备倒立控制能力，避免头颈承重。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Wall"],
+    "illustrationNotes": []
+  },
+  "handstand-push-up": {
+    "name": "自由倒立撑",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "双手稳固支撑，抬高髋部；倒立版本先确认平衡与退出空间。",
+      "控制屈肘下降，让肩部承担推力，避免头颈承重。 不依靠墙面，需先具备独立倒立与安全退出能力。",
+      "推起回到可控制的支撑姿势，失去平衡时及时安全退出。"
+    ],
+    "commonMistakes": ["头部撞地", "肘部突然外张", "超出平衡能力"],
+    "variationNote": "不依靠墙面，需先具备独立倒立与安全退出能力。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "overhead-press": {
+    "name": "杠铃肩上推举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳器械置于肩部附近，收紧腹部与臀部，保持肋骨不过度外翻。",
+      "沿自然轨迹向上或斜上推起，让肩胛随手臂正常转动。",
+      "缓慢降回肩部起始位置，不依靠腰部反弓接住重量。"
+    ],
+    "commonMistakes": ["过度挺腰", "耸肩挤压颈部", "下放失控"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Barbell", "Rack"],
+    "illustrationNotes": []
+  },
+  "seated-dumbbell-press": {
+    "name": "坐姿哑铃肩推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳器械置于肩部附近，收紧腹部与臀部，保持肋骨不过度外翻。",
+      "沿自然轨迹向上或斜上推起，让肩胛随手臂正常转动。",
+      "缓慢降回肩部起始位置，不依靠腰部反弓接住重量。"
+    ],
+    "commonMistakes": ["过度挺腰", "耸肩挤压颈部", "下放失控"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "arnold-press": {
+    "name": "阿诺德推举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳器械置于肩部附近，收紧腹部与臀部，保持肋骨不过度外翻。",
+      "沿自然轨迹向上或斜上推起，让肩胛随手臂正常转动。 从掌心朝向身体开始，推起时自然旋转；避免强拧肩关节。",
+      "缓慢降回肩部起始位置，不依靠腰部反弓接住重量。"
+    ],
+    "commonMistakes": ["过度挺腰", "耸肩挤压颈部", "下放失控"],
+    "variationNote": "从掌心朝向身体开始，推起时自然旋转；避免强拧肩关节。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "machine-shoulder-press": {
+    "name": "器械肩推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳器械置于肩部附近，收紧腹部与臀部，保持肋骨不过度外翻。",
+      "沿自然轨迹向上或斜上推起，让肩胛随手臂正常转动。",
+      "缓慢降回肩部起始位置，不依靠腰部反弓接住重量。"
+    ],
+    "commonMistakes": ["过度挺腰", "耸肩挤压颈部", "下放失控"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "standing-dumbbell-press": {
+    "name": "站姿哑铃肩推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳器械置于肩部附近，收紧腹部与臀部，保持肋骨不过度外翻。",
+      "沿自然轨迹向上或斜上推起，让肩胛随手臂正常转动。",
+      "缓慢降回肩部起始位置，不依靠腰部反弓接住重量。"
+    ],
+    "commonMistakes": ["过度挺腰", "耸肩挤压颈部", "下放失控"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "push-press": {
+    "name": "借力推举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳器械置于肩部附近，收紧腹部与臀部，保持肋骨不过度外翻。",
+      "沿自然轨迹向上或斜上推起，让肩胛随手臂正常转动。 小幅屈膝后伸髋伸膝助推，再控制重量回到肩部。",
+      "缓慢降回肩部起始位置，不依靠腰部反弓接住重量。"
+    ],
+    "commonMistakes": ["过度挺腰", "耸肩挤压颈部", "下放失控"],
+    "variationNote": "小幅屈膝后伸髋伸膝助推，再控制重量回到肩部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "landmine-press": {
+    "name": "地雷管推举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳器械置于肩部附近，收紧腹部与臀部，保持肋骨不过度外翻。",
+      "沿自然轨迹向上或斜上推起，让肩胛随手臂正常转动。 杠铃一端固定，沿斜向前上的轨迹推起另一端。",
+      "缓慢降回肩部起始位置，不依靠腰部反弓接住重量。"
+    ],
+    "commonMistakes": ["过度挺腰", "耸肩挤压颈部", "下放失控"],
+    "variationNote": "杠铃一端固定，沿斜向前上的轨迹推起另一端。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "lateral-raise": {
+    "name": "哑铃侧平举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或坐稳，手握器械，肘部微屈，肩部自然放松。",
+      "按变式向侧方或前方抬臂，通常到肩高附近的舒适位置。",
+      "保持控制缓慢下放，避免借身体摆动完成重复。"
+    ],
+    "commonMistakes": ["耸肩", "甩动躯干", "为抬高而强行扭转肩部"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "cable-lateral-raise": {
+    "name": "绳索侧平举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或坐稳，手握器械，肘部微屈，肩部自然放松。",
+      "按变式向侧方或前方抬臂，通常到肩高附近的舒适位置。",
+      "保持控制缓慢下放，避免借身体摆动完成重复。"
+    ],
+    "commonMistakes": ["耸肩", "甩动躯干", "为抬高而强行扭转肩部"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "front-raise": {
+    "name": "哑铃前平举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或坐稳，手握器械，肘部微屈，肩部自然放松。",
+      "按变式向侧方或前方抬臂，通常到肩高附近的舒适位置。 手臂向前抬起，与侧平举的侧向轨迹不同。",
+      "保持控制缓慢下放，避免借身体摆动完成重复。"
+    ],
+    "commonMistakes": ["耸肩", "甩动躯干", "为抬高而强行扭转肩部"],
+    "variationNote": "手臂向前抬起，与侧平举的侧向轨迹不同。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "cable-front-raise": {
+    "name": "绳索前平举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或坐稳，手握器械，肘部微屈，肩部自然放松。",
+      "按变式向侧方或前方抬臂，通常到肩高附近的舒适位置。 从低位滑轮向前上方抬臂。",
+      "保持控制缓慢下放，避免借身体摆动完成重复。"
+    ],
+    "commonMistakes": ["耸肩", "甩动躯干", "为抬高而强行扭转肩部"],
+    "variationNote": "从低位滑轮向前上方抬臂。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "plate-front-raise": {
+    "name": "杠铃片前平举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或坐稳，手握器械，肘部微屈，肩部自然放松。",
+      "按变式向侧方或前方抬臂，通常到肩高附近的舒适位置。 双手共同握住一片杠铃片，记录总重量。",
+      "保持控制缓慢下放，避免借身体摆动完成重复。"
+    ],
+    "commonMistakes": ["耸肩", "甩动躯干", "为抬高而强行扭转肩部"],
+    "variationNote": "双手共同握住一片杠铃片，记录总重量。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Plate"],
+    "illustrationNotes": []
+  },
+  "machine-lateral-raise": {
+    "name": "器械侧平举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "站稳或坐稳，手握器械，肘部微屈，肩部自然放松。",
+      "按变式向侧方或前方抬臂，通常到肩高附近的舒适位置。",
+      "保持控制缓慢下放，避免借身体摆动完成重复。"
+    ],
+    "commonMistakes": ["耸肩", "甩动躯干", "为抬高而强行扭转肩部"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "rear-delt-fly": {
+    "name": "三角肌后束飞鸟",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "按器械采用俯身或胸部支撑姿势，躯干稳定，双肘微屈。",
+      "手臂向两侧展开，关注肩部后侧发力，不大幅后仰。",
+      "缓慢收回双臂，保持张力与肩部舒适活动范围。"
+    ],
+    "commonMistakes": ["耸肩", "用腰背摆动", "肘部反复大幅屈伸"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "reverse-pec-deck": {
+    "name": "反向蝴蝶机飞鸟",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "按器械采用俯身或胸部支撑姿势，躯干稳定，双肘微屈。",
+      "手臂向两侧展开，关注肩部后侧发力，不大幅后仰。",
+      "缓慢收回双臂，保持张力与肩部舒适活动范围。"
+    ],
+    "commonMistakes": ["耸肩", "用腰背摆动", "肘部反复大幅屈伸"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "bent-over-rear-delt-raise": {
+    "name": "俯身哑铃反向飞鸟",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "按器械采用俯身或胸部支撑姿势，躯干稳定，双肘微屈。",
+      "手臂向两侧展开，关注肩部后侧发力，不大幅后仰。",
+      "缓慢收回双臂，保持张力与肩部舒适活动范围。"
+    ],
+    "commonMistakes": ["耸肩", "用腰背摆动", "肘部反复大幅屈伸"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "cable-rear-delt-fly": {
+    "name": "绳索反向飞鸟",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "按器械采用俯身或胸部支撑姿势，躯干稳定，双肘微屈。",
+      "手臂向两侧展开，关注肩部后侧发力，不大幅后仰。",
+      "缓慢收回双臂，保持张力与肩部舒适活动范围。"
+    ],
+    "commonMistakes": ["耸肩", "用腰背摆动", "肘部反复大幅屈伸"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "band-pull-apart": {
+    "name": "弹力带拉开",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "按器械采用俯身或胸部支撑姿势，躯干稳定，双肘微屈。",
+      "手臂向两侧展开，关注肩部后侧发力，不大幅后仰。 双臂在身前展开弹力带，避免耸肩和塌腰。",
+      "缓慢收回双臂，保持张力与肩部舒适活动范围。"
+    ],
+    "commonMistakes": ["耸肩", "用腰背摆动", "肘部反复大幅屈伸"],
+    "variationNote": "双臂在身前展开弹力带，避免耸肩和塌腰。 检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "face-pull": {
+    "name": "绳索面拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "将把手或弹力带固定在面部附近高度，站稳并握住两端。",
+      "向面部两侧拉动，肘部展开，保持颈部自然。",
+      "控制伸臂回到起点，不让器械突然把身体向前拖动。"
+    ],
+    "commonMistakes": ["挺腰借力", "手腕折弯", "拉向过低位置"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "banded-face-pull": {
+    "name": "弹力带面拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "将把手或弹力带固定在面部附近高度，站稳并握住两端。",
+      "向面部两侧拉动，肘部展开，保持颈部自然。",
+      "控制伸臂回到起点，不让器械突然把身体向前拖动。"
+    ],
+    "commonMistakes": ["挺腰借力", "手腕折弯", "拉向过低位置"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "upright-row": {
+    "name": "杠铃直立划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "站稳握杆，手腕自然，选择肩部舒适的握距。",
+      "沿身体前方抬起肘部与重量，肩部不适时减小幅度。",
+      "缓慢下放到起点，维持稳定躯干。"
+    ],
+    "commonMistakes": ["强行将肘抬得过高", "耸肩挤压", "甩动重量"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "deadlift": {
+    "name": "传统硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "romanian-deadlift": {
+    "name": "罗马尼亚硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。 从站立位屈髋下降，膝盖微屈；不以杠铃触地为目标。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "从站立位屈髋下降，膝盖微屈；不以杠铃触地为目标。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "sumo-deadlift": {
+    "name": "相扑硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。 宽站距，脚尖与膝盖同向，双手在双腿内侧握杆。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "宽站距，脚尖与膝盖同向，双手在双腿内侧握杆。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "trap-bar-deadlift": {
+    "name": "六角杠硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。 站在六角杠中央握住两侧把手。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "站在六角杠中央握住两侧把手。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "rack-pull": {
+    "name": "架上硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。 从安全架的抬高位置起拉，设置两侧等高支撑。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "从安全架的抬高位置起拉，设置两侧等高支撑。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "single-leg-romanian-deadlift": {
+    "name": "单腿罗马尼亚硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。 支撑腿微屈，另一腿随屈髋向后伸展，骨盆避免旋转。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "支撑腿微屈，另一腿随屈髋向后伸展，骨盆避免旋转。 两侧分别完成，以较弱侧能控制的幅度和负荷为起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "smith-machine-romanian-deadlift": {
+    "name": "史密斯罗马尼亚硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "按史密斯机固定轨迹调整站位，先设置安全限位。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "dumbbell-romanian-deadlift": {
+    "name": "哑铃罗马尼亚硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "kettlebell-romanian-deadlift": {
+    "name": "壶铃罗马尼亚硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Kettlebell"],
+    "illustrationNotes": []
+  },
+  "dumbbell-sumo-deadlift": {
+    "name": "哑铃相扑硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合屈膝，再伸髋站起；每手握一只哑铃，膝盖与脚尖方向一致。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "图示每手持一只哑铃，宽站距起拉；重量按每只记录。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "landmine-romanian-deadlift": {
+    "name": "地雷管罗马尼亚硬拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。 面向固定杠铃的自由端，双手持同一端做髋铰链。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "面向固定杠铃的自由端，双手持同一端做髋铰链。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "good-morning": {
+    "name": "杠铃早安式",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。 杠铃放在上背部，轻屈膝并向后送髋；使用可控制的轻重量。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "杠铃放在上背部，轻屈膝并向后送髋；使用可控制的轻重量。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell", "Rack"],
+    "illustrationNotes": []
+  },
+  "cable-pull-through": {
+    "name": "绳索胯下拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚稳定，器械靠近身体，收紧腹部，保持脊柱自然。",
+      "髋部向后移动并配合适度屈膝，再通过伸髋站起，重量贴近身体。 背对低位滑轮，绳索从双腿之间穿过，伸髋站直。",
+      "按变式回到地面或站立起点，不在顶端过度后仰。"
+    ],
+    "commonMistakes": ["弓腰或过度挺腰", "重量远离身体", "用突然猛拉启动"],
+    "variationNote": "背对低位滑轮，绳索从双腿之间穿过，伸髋站直。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "barbell-row": {
+    "name": "杠铃俯身划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "t-bar-row": {
+    "name": "T杠划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "dumbbell-bent-over-row": {
+    "name": "哑铃俯身划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "one-arm-dumbbell-row": {
+    "name": "单臂哑铃划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。 一侧手和膝可支撑训练凳，工作侧肘向髋部拉。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "一侧手和膝可支撑训练凳，工作侧肘向髋部拉。 两侧分别完成，以较弱侧能控制的幅度和负荷为起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "chest-supported-row": {
+    "name": "胸托划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。 胸部贴住斜凳或胸垫，保持支撑不离开。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "胸部贴住斜凳或胸垫，保持支撑不离开。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "seated-row": {
+    "name": "坐姿绳索划船",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。 坐稳并保持躯干稳定，不靠大幅前后摇摆拉动重量。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "坐稳并保持躯干稳定，不靠大幅前后摇摆拉动重量。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "machine-row": {
+    "name": "器械划船",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "pendlay-row": {
+    "name": "潘德雷划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。 每次从地面静止起拉，躯干接近水平，落地后重置姿势。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "每次从地面静止起拉，躯干接近水平，落地后重置姿势。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "meadows-row": {
+    "name": "梅多斯划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。 侧身站在地雷管自由端旁，单手握粗杆端划向髋部。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "侧身站在地雷管自由端旁，单手握粗杆端划向髋部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "single-arm-cable-row": {
+    "name": "单臂绳索划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "两侧分别完成，以较弱侧能控制的幅度和负荷为起点。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "banded-row": {
+    "name": "弹力带划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "采用俯身、坐姿或胸托支撑，握稳把手并固定躯干姿势。",
+      "肘部沿身体两侧向后拉，将重量拉向腹部或下胸附近。 将弹力带固定在可靠锚点，检查回弹路径。",
+      "控制伸臂返回，允许肩胛自然移动，不让腰部代偿。"
+    ],
+    "commonMistakes": ["耸肩", "用躯干甩动", "只弯手腕不移动上臂"],
+    "variationNote": "将弹力带固定在可靠锚点，检查回弹路径。 检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "inverted-row": {
+    "name": "反向划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "检查固定支撑牢固，双手握稳，调整身体倾斜角度。",
+      "保持躯干稳定，屈肘把胸部拉向支撑点。 在固定横杆下方保持身体成直线，胸口拉向横杆。",
+      "缓慢伸臂回到起点，必要时提高身体角度降低难度。"
+    ],
+    "commonMistakes": ["使用不可靠锚点", "塌腰", "伸颈代替拉起身体"],
+    "variationNote": "在固定横杆下方保持身体成直线，胸口拉向横杆。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "doorway-row": {
+    "name": "门框划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "检查固定支撑牢固，双手握稳，调整身体倾斜角度。",
+      "保持躯干稳定，屈肘把胸部拉向支撑点。 仅使用牢固、可承重的门框，先小幅测试稳定性。",
+      "缓慢伸臂回到起点，必要时提高身体角度降低难度。"
+    ],
+    "commonMistakes": ["使用不可靠锚点", "塌腰", "伸颈代替拉起身体"],
+    "variationNote": "仅使用牢固、可承重的门框，先小幅测试稳定性。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Doorway"],
+    "illustrationNotes": []
+  },
+  "towel-row": {
+    "name": "毛巾划船",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "检查固定支撑牢固，双手握稳，调整身体倾斜角度。",
+      "保持躯干稳定，屈肘把胸部拉向支撑点。 毛巾与锚点必须牢固，不使用可意外打开的门作为临时支撑。",
+      "缓慢伸臂回到起点，必要时提高身体角度降低难度。"
+    ],
+    "commonMistakes": ["使用不可靠锚点", "塌腰", "伸颈代替拉起身体"],
+    "variationNote": "毛巾与锚点必须牢固，不使用可意外打开的门作为临时支撑。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Towel"],
+    "illustrationNotes": []
+  },
+  "lat-pulldown": {
+    "name": "高位下拉",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "坐稳或跪稳，握住头顶上方把手，躯干保持稳定。",
+      "肘部向下收，将把手拉向胸前；不拉至颈后。",
+      "控制伸臂向上返回，不让配重突然拉扯肩部。"
+    ],
+    "commonMistakes": ["后仰甩动", "颈后下拉", "用手腕折弯借力"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": [
+      "部分图帧的拉杆位置接近颈后；文字描述采用胸前下拉，本条暂不参与自动排课。"
+    ]
+  },
+  "close-grip-lat-pulldown": {
+    "name": "窄握高位下拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "坐稳或跪稳，握住头顶上方把手，躯干保持稳定。",
+      "肘部向下收，将把手拉向胸前；不拉至颈后。",
+      "控制伸臂向上返回，不让配重突然拉扯肩部。"
+    ],
+    "commonMistakes": ["后仰甩动", "颈后下拉", "用手腕折弯借力"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "wide-grip-lat-pulldown": {
+    "name": "宽握高位下拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "坐稳或跪稳，握住头顶上方把手，躯干保持稳定。",
+      "肘部向下收，将把手拉向胸前；不拉至颈后。",
+      "控制伸臂向上返回，不让配重突然拉扯肩部。"
+    ],
+    "commonMistakes": ["后仰甩动", "颈后下拉", "用手腕折弯借力"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": ["图帧包含颈后位置，与本地胸前下拉说明不一致。"]
+  },
+  "banded-lat-pulldown": {
+    "name": "弹力带高位下拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "坐稳或跪稳，握住头顶上方把手，躯干保持稳定。",
+      "肘部向下收，将把手拉向胸前；不拉至颈后。 弹力带固定在头顶上方的可靠锚点。",
+      "控制伸臂向上返回，不让配重突然拉扯肩部。"
+    ],
+    "commonMistakes": ["后仰甩动", "颈后下拉", "用手腕折弯借力"],
+    "variationNote": "弹力带固定在头顶上方的可靠锚点。 检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "straight-arm-pulldown": {
+    "name": "直臂下拉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "面向高位滑轮，双手握把，肘部微屈并保持角度。",
+      "从肩关节带动手臂向髋部方向下压，躯干不大幅摆动。",
+      "缓慢抬臂回到舒适起点，保持腰背自然。"
+    ],
+    "commonMistakes": ["把动作做成肱三头肌下压", "反复屈伸肘", "塌腰"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "pull-up": {
+    "name": "引体向上",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Bodyweight", "Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "assisted-pull-up": {
+    "name": "辅助引体向上",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 辅助重量越大通常越容易，记录器械提供的辅助重量。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "辅助重量越大通常越容易，记录器械提供的辅助重量。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "weighted-pull-up": {
+    "name": "负重引体向上",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 记录额外负重，不把体重重复计入。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "记录额外负重，不把体重重复计入。 额外负重应可靠固定；先掌握对应自重动作。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "chin-up": {
+    "name": "反握引体向上",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 掌心朝向自己，保持手腕自然。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "掌心朝向自己，保持手腕自然。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "neutral-grip-pull-up": {
+    "name": "对握引体向上",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 双手掌心相对，使用平行把手。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "双手掌心相对，使用平行把手。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "assisted-chin-up": {
+    "name": "辅助反握引体向上",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 采用反握，并记录器械提供的辅助重量。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "采用反握，并记录器械提供的辅助重量。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "weighted-chin-up": {
+    "name": "负重反握引体向上",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 采用反握，记录额外负重。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "采用反握，记录额外负重。 额外负重应可靠固定；先掌握对应自重动作。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "scapular-pull-up": {
+    "name": "肩胛引体",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 肘部保持伸直，通过肩胛下沉小幅抬起身体。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "肘部保持伸直，通过肩胛下沉小幅抬起身体。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "negative-pull-up": {
+    "name": "离心引体向上",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 借助踏台到达高位，再缓慢下降；不要跳下失控着地。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "借助踏台到达高位，再缓慢下降；不要跳下失控着地。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "commando-pull-up": {
+    "name": "突击队式引体向上",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 双手前后握同一横杆，头部交替从横杆两侧通过。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "双手前后握同一横杆，头部交替从横杆两侧通过。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "l-sit-pull-up": {
+    "name": "L坐引体向上",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 双腿向前伸直保持L形，再完成引体动作。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "双腿向前伸直保持L形，再完成引体动作。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "towel-pull-up": {
+    "name": "毛巾引体向上",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢单杠或器械把手，建立稳定悬垂，按变式选择握法与辅助。",
+      "保持躯干可控，通过屈肘和肩部下拉抬起身体。 双手握住牢固搭在单杠上的毛巾，先验证抓握和固定可靠。",
+      "缓慢下降至舒适悬垂；特殊肩胛或离心版本按变式说明完成。"
+    ],
+    "commonMistakes": ["摆腿借力", "伸颈够杆", "失控下坠"],
+    "variationNote": "双手握住牢固搭在单杠上的毛巾，先验证抓握和固定可靠。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Towel"],
+    "illustrationNotes": []
+  },
+  "shrug": {
+    "name": "杠铃耸肩",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "站直持稳重量，双臂自然下垂，头颈中立。",
+      "肩部向上抬起，手臂不主动弯举。",
+      "缓慢放下肩部回到起点，不做大幅绕肩。"
+    ],
+    "commonMistakes": ["转动颈部", "用屈肘代偿", "甩动重量"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "dumbbell-shrug": {
+    "name": "哑铃耸肩",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "站直持稳重量，双臂自然下垂，头颈中立。",
+      "肩部向上抬起，手臂不主动弯举。",
+      "缓慢放下肩部回到起点，不做大幅绕肩。"
+    ],
+    "commonMistakes": ["转动颈部", "用屈肘代偿", "甩动重量"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "squat": {
+    "name": "杠铃背蹲",
+    "aliases": ["深蹲", "背蹲"],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Barbell", "Rack"],
+    "illustrationNotes": []
+  },
+  "front-squat": {
+    "name": "杠铃前蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 杠铃置于肩前，保持肘部抬起与躯干稳定。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "杠铃置于肩前，保持肘部抬起与躯干稳定。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell", "Rack"],
+    "illustrationNotes": []
+  },
+  "hack-squat": {
+    "name": "哈克深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 背部贴住器械靠垫，先确认安全限位。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "背部贴住器械靠垫，先确认安全限位。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "leg-press": {
+    "name": "腿举",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 骨盆贴住靠垫，下降到腰背不会离垫的范围。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "骨盆贴住靠垫，下降到腰背不会离垫的范围。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "goblet-squat": {
+    "name": "高脚杯深蹲",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 双手在胸前握住一只哑铃或壶铃，记录该器械总重量。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "双手在胸前握住一只哑铃或壶铃，记录该器械总重量。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "smith-machine-squat": {
+    "name": "史密斯深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "按史密斯机固定轨迹调整站位，先设置安全限位。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "belt-squat": {
+    "name": "腰带深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 负重通过专用腰带连接，先确认扣件与平台稳定。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "负重通过专用腰带连接，先确认扣件与平台稳定。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "heel-elevated-goblet-squat": {
+    "name": "垫脚跟高脚杯深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 脚跟放在稳定垫块上，双手胸前持单只哑铃。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "脚跟放在稳定垫块上，双手胸前持单只哑铃。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "dumbbell-sumo-squat": {
+    "name": "哑铃相扑深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 宽站距，双手在身体中间握同一只哑铃。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "宽站距，双手在身体中间握同一只哑铃。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "landmine-squat": {
+    "name": "地雷管深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 双手胸前持固定杠铃自由端，沿器械弧线起落。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "双手胸前持固定杠铃自由端，沿器械弧线起落。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "bodyweight-squat": {
+    "name": "徒手深蹲",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "banded-squat": {
+    "name": "弹力带深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "按变式站稳或靠稳器械，保持全脚掌支撑，膝盖与脚尖方向一致。",
+      "屈髋屈膝下降到可控范围，再通过腿部伸展起身或推开平台。 按图示放置弹力带；维持膝盖与脚尖同向。",
+      "回到起点时保留关节控制，不突然锁死膝盖。"
+    ],
+    "commonMistakes": ["脚跟失去支撑", "膝盖失控内扣", "腰背离垫或失稳"],
+    "variationNote": "按图示放置弹力带；维持膝盖与脚尖同向。 检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "pistol-squat": {
+    "name": "手枪深蹲",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "单腿或按变式站稳，先选择合适支撑及可控深度。",
+      "支撑腿屈髋屈膝下降，保持足部稳定与膝盖方向。 非支撑腿向前伸直，先掌握辅助版本。",
+      "通过支撑腿站起，左右分别完成，失衡时停止重复。"
+    ],
+    "commonMistakes": ["强求深度", "膝盖内扣", "借反弹快速起身"],
+    "variationNote": "非支撑腿向前伸直，先掌握辅助版本。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "assisted-pistol-squat": {
+    "name": "辅助单腿深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "单腿或按变式站稳，先选择合适支撑及可控深度。",
+      "支撑腿屈髋屈膝下降，保持足部稳定与膝盖方向。 手扶牢固支撑物，辅助保持平衡。",
+      "通过支撑腿站起，左右分别完成，失衡时停止重复。"
+    ],
+    "commonMistakes": ["强求深度", "膝盖内扣", "借反弹快速起身"],
+    "variationNote": "手扶牢固支撑物，辅助保持平衡。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "shrimp-squat": {
+    "name": "虾式深蹲",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "单腿或按变式站稳，先选择合适支撑及可控深度。",
+      "支撑腿屈髋屈膝下降，保持足部稳定与膝盖方向。 非支撑腿向后屈膝，下降时保持平衡。",
+      "通过支撑腿站起，左右分别完成，失衡时停止重复。"
+    ],
+    "commonMistakes": ["强求深度", "膝盖内扣", "借反弹快速起身"],
+    "variationNote": "非支撑腿向后屈膝，下降时保持平衡。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": ["不同帧的非支撑腿位置不一致，不能作为虾式深蹲的连续步骤。"]
+  },
+  "skater-squat": {
+    "name": "滑冰式单腿深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "单腿或按变式站稳，先选择合适支撑及可控深度。",
+      "支撑腿屈髋屈膝下降，保持足部稳定与膝盖方向。 非支撑腿向后悬空，膝部接近软垫后起身。",
+      "通过支撑腿站起，左右分别完成，失衡时停止重复。"
+    ],
+    "commonMistakes": ["强求深度", "膝盖内扣", "借反弹快速起身"],
+    "variationNote": "非支撑腿向后悬空，膝部接近软垫后起身。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": ["不同帧的腿部轨迹存在差异，不能作为单腿滑冰式深蹲的连续步骤。"]
+  },
+  "single-leg-box-squat": {
+    "name": "单腿坐箱深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "单腿或按变式站稳，先选择合适支撑及可控深度。",
+      "支撑腿屈髋屈膝下降，保持足部稳定与膝盖方向。 臀部轻触稳定箱面后起身，不向后摔坐。",
+      "通过支撑腿站起，左右分别完成，失衡时停止重复。"
+    ],
+    "commonMistakes": ["强求深度", "膝盖内扣", "借反弹快速起身"],
+    "variationNote": "臀部轻触稳定箱面后起身，不向后摔坐。 两侧分别完成，以较弱侧能控制的幅度和负荷为起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Box"],
+    "illustrationNotes": []
+  },
+  "sissy-squat": {
+    "name": "西斯深蹲",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "squat",
+    "steps": [
+      "单腿或按变式站稳，先选择合适支撑及可控深度。",
+      "支撑腿屈髋屈膝下降，保持足部稳定与膝盖方向。 扶稳支撑，膝盖向前、躯干与大腿保持一致倾斜，幅度循序增加。",
+      "通过支撑腿站起，左右分别完成，失衡时停止重复。"
+    ],
+    "commonMistakes": ["强求深度", "膝盖内扣", "借反弹快速起身"],
+    "variationNote": "扶稳支撑，膝盖向前、躯干与大腿保持一致倾斜，幅度循序增加。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "bulgarian-split-squat": {
+    "name": "保加利亚分腿蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 后脚放在牢固矮凳上，前腿承担主要负荷。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "后脚放在牢固矮凳上，前腿承担主要负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "walking-lunge": {
+    "name": "行走弓步蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 前进一步完成下降，起身后交替向前迈步。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "前进一步完成下降，起身后交替向前迈步。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "reverse-lunge": {
+    "name": "后撤弓步蹲",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "split-squat": {
+    "name": "分腿蹲",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 前后分腿固定站姿，原地下降与起身。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "前后分腿固定站姿，原地下降与起身。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "smith-machine-bulgarian-split-squat": {
+    "name": "史密斯保加利亚分腿蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "按史密斯机固定轨迹调整站位，先设置安全限位。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine", "Bench"],
+    "illustrationNotes": []
+  },
+  "smith-machine-reverse-lunge": {
+    "name": "史密斯后撤弓步蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "按史密斯机固定轨迹调整站位，先设置安全限位。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "smith-machine-split-squat": {
+    "name": "史密斯分腿蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "按史密斯机固定轨迹调整站位，先设置安全限位。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "front-foot-elevated-split-squat": {
+    "name": "前脚垫高分腿蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 前脚放在稳固低台上，先使用小幅度。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "前脚放在稳固低台上，先使用小幅度。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Box"],
+    "illustrationNotes": []
+  },
+  "deficit-reverse-lunge": {
+    "name": "垫高后撤弓步蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 从稳固低台向后迈步，前脚继续留在台面。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "从稳固低台向后迈步，前脚继续留在台面。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Box"],
+    "illustrationNotes": []
+  },
+  "dumbbell-lateral-lunge": {
+    "name": "哑铃侧弓步蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 向侧方迈步并屈髋屈膝，另一腿保持相对伸直。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "向侧方迈步并屈髋屈膝，另一腿保持相对伸直。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "dumbbell-curtsy-lunge": {
+    "name": "哑铃交叉后撤弓步蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 向后斜跨步，不强求交叉幅度；膝盖跟随脚尖。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "向后斜跨步，不强求交叉幅度；膝盖跟随脚尖。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "forward-lunge": {
+    "name": "前弓步蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "lateral-lunge": {
+    "name": "侧弓步蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 向侧方迈步，将重心移向屈膝一侧。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "向侧方迈步，将重心移向屈膝一侧。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "curtsy-lunge": {
+    "name": "交叉后撤弓步蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 向后斜跨步，控制骨盆，不扭转支撑膝。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "向后斜跨步，控制骨盆，不扭转支撑膝。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "cossack-squat": {
+    "name": "哥萨克深蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "建立前后或侧向站姿，双脚保留足够宽度以维持平衡。",
+      "向目标腿屈髋屈膝下降，躯干稳定，按变式移动重心。 宽站距，重心移向一侧；另一腿伸直并可抬起脚尖。",
+      "由工作腿推回起点，左右分别完成，避免以膝部扭转改变方向。"
+    ],
+    "commonMistakes": ["站距过窄", "膝盖失控内扣", "后脚过度蹬地"],
+    "variationNote": "宽站距，重心移向一侧；另一腿伸直并可抬起脚尖。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "step-up": {
+    "name": "上台阶",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "选择牢固低台，一脚完整踩在台面上，必要时扶稳支撑。",
+      "通过台上腿控制身体上升或下降，保持膝盖沿脚尖方向。 上台腿主动发力，避免后脚大力蹬地。",
+      "缓慢回到起点，先稳住再换侧，避免跳落。"
+    ],
+    "commonMistakes": ["台面过高", "脚掌悬空", "依靠下方腿猛蹬"],
+    "variationNote": "上台腿主动发力，避免后脚大力蹬地。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Box"],
+    "illustrationNotes": []
+  },
+  "step-down": {
+    "name": "下台阶",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "lunge",
+    "steps": [
+      "选择牢固低台，一脚完整踩在台面上，必要时扶稳支撑。",
+      "通过台上腿控制身体上升或下降，保持膝盖沿脚尖方向。 单腿站在低台上，缓慢让另一脚脚跟接近地面，再回到起点。",
+      "缓慢回到起点，先稳住再换侧，避免跳落。"
+    ],
+    "commonMistakes": ["台面过高", "脚掌悬空", "依靠下方腿猛蹬"],
+    "variationNote": "单腿站在低台上，缓慢让另一脚脚跟接近地面，再回到起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Box"],
+    "illustrationNotes": []
+  },
+  "leg-extension": {
+    "name": "坐姿腿屈伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "调整座椅与转轴，让膝关节对应器械轴，靠稳背垫。",
+      "通过伸膝抬起小腿，保持臀部与背部支撑。",
+      "缓慢屈膝回落，不让配重撞击。"
+    ],
+    "commonMistakes": ["座椅轴线不对齐", "猛踢重量", "臀部离座"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "leg-curl": {
+    "name": "器械腿弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式调整器械或支撑，固定躯干、髋部与脚踝位置。",
+      "通过屈膝使脚跟靠近臀部，滑动或北欧版本按补充说明控制身体。",
+      "控制伸膝返回，不靠腰部后仰或突然下坠完成动作。"
+    ],
+    "commonMistakes": ["髋部乱动", "腰部代偿", "离心阶段失控"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "seated-leg-curl": {
+    "name": "坐姿腿弯举",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式调整器械或支撑，固定躯干、髋部与脚踝位置。",
+      "通过屈膝使脚跟靠近臀部，滑动或北欧版本按补充说明控制身体。",
+      "控制伸膝返回，不靠腰部后仰或突然下坠完成动作。"
+    ],
+    "commonMistakes": ["髋部乱动", "腰部代偿", "离心阶段失控"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "lying-leg-curl": {
+    "name": "俯卧腿弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式调整器械或支撑，固定躯干、髋部与脚踝位置。",
+      "通过屈膝使脚跟靠近臀部，滑动或北欧版本按补充说明控制身体。",
+      "控制伸膝返回，不靠腰部后仰或突然下坠完成动作。"
+    ],
+    "commonMistakes": ["髋部乱动", "腰部代偿", "离心阶段失控"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "nordic-hamstring-curl": {
+    "name": "北欧腿弯举",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式调整器械或支撑，固定躯干、髋部与脚踝位置。",
+      "通过屈膝使脚跟靠近臀部，滑动或北欧版本按补充说明控制身体。 脚踝可靠固定，保持髋部伸展向前倾；双手准备撑地缓冲。",
+      "控制伸膝返回，不靠腰部后仰或突然下坠完成动作。"
+    ],
+    "commonMistakes": ["髋部乱动", "腰部代偿", "离心阶段失控"],
+    "variationNote": "脚踝可靠固定，保持髋部伸展向前倾；双手准备撑地缓冲。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "lying-hamstring-walkout": {
+    "name": "仰卧腘绳肌走步",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式调整器械或支撑，固定躯干、髋部与脚踝位置。",
+      "通过屈膝使脚跟靠近臀部，滑动或北欧版本按补充说明控制身体。 保持桥式抬髋，双脚逐步向外走，再逐步收回。",
+      "控制伸膝返回，不靠腰部后仰或突然下坠完成动作。"
+    ],
+    "commonMistakes": ["髋部乱动", "腰部代偿", "离心阶段失控"],
+    "variationNote": "保持桥式抬髋，双脚逐步向外走，再逐步收回。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": ["图中出现悬挂支撑，未清楚表现双脚在地面逐步走出的过程。"]
+  },
+  "towel-hamstring-curl": {
+    "name": "毛巾滑动腿弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式调整器械或支撑，固定躯干、髋部与脚踝位置。",
+      "通过屈膝使脚跟靠近臀部，滑动或北欧版本按补充说明控制身体。 脚跟放在可滑动毛巾上，保持抬髋并收回脚跟。",
+      "控制伸膝返回，不靠腰部后仰或突然下坠完成动作。"
+    ],
+    "commonMistakes": ["髋部乱动", "腰部代偿", "离心阶段失控"],
+    "variationNote": "脚跟放在可滑动毛巾上，保持抬髋并收回脚跟。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Towel"],
+    "illustrationNotes": ["图中接近仰卧拉伸，未清楚表现脚跟在毛巾上滑动屈膝。"]
+  },
+  "stability-ball-hamstring-curl": {
+    "name": "健身球腿弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式调整器械或支撑，固定躯干、髋部与脚踝位置。",
+      "通过屈膝使脚跟靠近臀部，滑动或北欧版本按补充说明控制身体。 脚跟置于健身球上，抬髋后将球拉向臀部。",
+      "控制伸膝返回，不靠腰部后仰或突然下坠完成动作。"
+    ],
+    "commonMistakes": ["髋部乱动", "腰部代偿", "离心阶段失控"],
+    "variationNote": "脚跟置于健身球上，抬髋后将球拉向臀部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Stability Ball"],
+    "illustrationNotes": ["图中为面朝下支撑，未表现仰卧脚跟放球的腿弯举版本。"]
+  },
+  "hip-thrust": {
+    "name": "杠铃臀推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。 上背部靠牢固训练凳，杠铃置于有衬垫的髋部。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "上背部靠牢固训练凳，杠铃置于有衬垫的髋部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Barbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "glute-bridge": {
+    "name": "臀桥",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "single-leg-glute-bridge": {
+    "name": "单腿臀桥",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。 一脚支撑，另一腿抬离地面，骨盆保持水平。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "一脚支撑，另一腿抬离地面，骨盆保持水平。 两侧分别完成，以较弱侧能控制的幅度和负荷为起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "barbell-glute-bridge": {
+    "name": "杠铃臀桥",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": ["图中上背靠凳，接近臀推；与地面杠铃臀桥的支撑方式存在差异。"]
+  },
+  "dumbbell-glute-bridge": {
+    "name": "哑铃臀桥",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "dumbbell-hip-thrust": {
+    "name": "哑铃臀推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。 上背靠凳，双手稳定髋部的单只哑铃。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "上背靠凳，双手稳定髋部的单只哑铃。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "smith-machine-hip-thrust": {
+    "name": "史密斯臀推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "按史密斯机固定轨迹调整站位，先设置安全限位。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine", "Bench"],
+    "illustrationNotes": []
+  },
+  "glute-bridge-march": {
+    "name": "臀桥交替抬腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。 保持抬髋，交替让一脚离地，避免骨盆下沉。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "保持抬髋，交替让一脚离地，避免骨盆下沉。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "frog-pump": {
+    "name": "青蛙臀桥",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。 脚掌相对、双膝自然向外，在舒适范围抬髋。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "脚掌相对、双膝自然向外，在舒适范围抬髋。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "banded-glute-bridge": {
+    "name": "弹力带臀桥",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "banded-hip-thrust": {
+    "name": "弹力带臀推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band", "Bench"],
+    "illustrationNotes": []
+  },
+  "banded-frog-pump": {
+    "name": "弹力带青蛙臀桥",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "仰卧或以上背靠稳训练凳，双脚踩稳，按变式固定髋部负重。",
+      "通过脚掌发力抬髋，顶端让躯干与大腿大致连成直线。",
+      "控制下降髋部，保持肋骨收拢，不靠腰部过伸抬高。"
+    ],
+    "commonMistakes": ["顶端反弓腰", "脚位失稳", "负重在髋部滚动"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": ["图中更接近反向桌式支撑，未清楚表现脚掌相对的青蛙臀桥。"]
+  },
+  "standing-calf-raise": {
+    "name": "站姿提踵",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式站稳或坐稳，前脚掌可靠支撑，踝关节可控。",
+      "通过踝关节抬高脚跟或推开平台，保持膝部姿势稳定。",
+      "缓慢降低脚跟到舒适范围，不在底部弹震。"
+    ],
+    "commonMistakes": ["快速弹跳", "脚踝向内外翻", "只做极小幅度"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "seated-calf-raise": {
+    "name": "坐姿提踵",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式站稳或坐稳，前脚掌可靠支撑，踝关节可控。",
+      "通过踝关节抬高脚跟或推开平台，保持膝部姿势稳定。 保持坐姿屈膝，主要通过踝关节起落。",
+      "缓慢降低脚跟到舒适范围，不在底部弹震。"
+    ],
+    "commonMistakes": ["快速弹跳", "脚踝向内外翻", "只做极小幅度"],
+    "variationNote": "保持坐姿屈膝，主要通过踝关节起落。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "donkey-calf-raise": {
+    "name": "驴式提踵",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式站稳或坐稳，前脚掌可靠支撑，踝关节可控。",
+      "通过踝关节抬高脚跟或推开平台，保持膝部姿势稳定。 髋部屈曲并扶稳支撑，不改变躯干姿势借力。",
+      "缓慢降低脚跟到舒适范围，不在底部弹震。"
+    ],
+    "commonMistakes": ["快速弹跳", "脚踝向内外翻", "只做极小幅度"],
+    "variationNote": "髋部屈曲并扶稳支撑，不改变躯干姿势借力。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": ["图中躯干接近直立且有额外人物负重，未清楚展示典型屈髋驴式提踵。"]
+  },
+  "leg-press-calf-raise": {
+    "name": "腿举机提踵",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式站稳或坐稳，前脚掌可靠支撑，踝关节可控。",
+      "通过踝关节抬高脚跟或推开平台，保持膝部姿势稳定。 前脚掌稳固接触踏板，通过踝关节移动平台。",
+      "缓慢降低脚跟到舒适范围，不在底部弹震。"
+    ],
+    "commonMistakes": ["快速弹跳", "脚踝向内外翻", "只做极小幅度"],
+    "variationNote": "前脚掌稳固接触踏板，通过踝关节移动平台。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "calf-raise": {
+    "name": "徒手提踵",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式站稳或坐稳，前脚掌可靠支撑，踝关节可控。",
+      "通过踝关节抬高脚跟或推开平台，保持膝部姿势稳定。",
+      "缓慢降低脚跟到舒适范围，不在底部弹震。"
+    ],
+    "commonMistakes": ["快速弹跳", "脚踝向内外翻", "只做极小幅度"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "single-leg-calf-raise": {
+    "name": "单腿提踵",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式站稳或坐稳，前脚掌可靠支撑，踝关节可控。",
+      "通过踝关节抬高脚跟或推开平台，保持膝部姿势稳定。 单脚支撑，必要时扶稳固定物。",
+      "缓慢降低脚跟到舒适范围，不在底部弹震。"
+    ],
+    "commonMistakes": ["快速弹跳", "脚踝向内外翻", "只做极小幅度"],
+    "variationNote": "单脚支撑，必要时扶稳固定物。 两侧分别完成，以较弱侧能控制的幅度和负荷为起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "bicep-curl": {
+    "name": "哑铃弯举",
+    "aliases": ["二头弯举"],
+    "difficulty": "beginner",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "hammer-curl": {
+    "name": "锤式弯举",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 掌心相对，保持中立握姿。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "掌心相对，保持中立握姿。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "preacher-curl": {
+    "name": "牧师凳弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 上臂贴住斜垫，底部不强行锁肘。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "上臂贴住斜垫，底部不强行锁肘。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "cable-curl": {
+    "name": "绳索弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "reverse-curl": {
+    "name": "反握弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 掌心向下握杆，保持手腕稳定。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "掌心向下握杆，保持手腕稳定。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "incline-dumbbell-curl": {
+    "name": "上斜哑铃弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 背靠斜凳，上臂自然垂在身体两侧。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "背靠斜凳，上臂自然垂在身体两侧。 将训练凳调整为稳定上斜角度。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "concentration-curl": {
+    "name": "集中弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 坐姿，工作侧上臂靠大腿内侧。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "坐姿，工作侧上臂靠大腿内侧。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "ez-bar-curl": {
+    "name": "EZ杠弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 采用曲杆的自然握位，记录含杆总重。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "采用曲杆的自然握位，记录含杆总重。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "spider-curl": {
+    "name": "蜘蛛弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 胸部靠住斜凳，上臂向下悬垂。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "胸部靠住斜凳，上臂向下悬垂。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": ["图中支撑与杆形更接近牧师凳弯举，且与上游哑铃分类不完全一致。"]
+  },
+  "rope-hammer-curl": {
+    "name": "绳索锤式弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 使用绳索把手并保持掌心相对。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "使用绳索把手并保持掌心相对。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "drag-curl": {
+    "name": "拖拽弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "握稳器械，按变式放置上臂，手腕保持自然。",
+      "屈肘抬起重量，上臂按变式维持稳定或小幅后移。 肘部略向后移，重量沿身体前侧上行。",
+      "缓慢伸肘回到起点，保持握持与身体稳定。"
+    ],
+    "commonMistakes": ["后仰甩动", "手腕折弯", "下放失控"],
+    "variationNote": "肘部略向后移，重量沿身体前侧上行。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "wrist-curl": {
+    "name": "腕弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "坐稳并支撑前臂，让手腕伸出支撑边缘，使用轻重量。",
+      "按变式做屈腕或伸腕，小幅控制移动。 掌心向上，用屈腕动作卷起重量。",
+      "缓慢返回起点，前臂不抬离支撑。"
+    ],
+    "commonMistakes": ["重量过大", "前臂借力抬起", "强行超出手腕范围"],
+    "variationNote": "掌心向上，用屈腕动作卷起重量。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "wrist-extension": {
+    "name": "反向腕弯举",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "坐稳并支撑前臂，让手腕伸出支撑边缘，使用轻重量。",
+      "按变式做屈腕或伸腕，小幅控制移动。 掌心向下，用伸腕动作抬起重量。",
+      "缓慢返回起点，前臂不抬离支撑。"
+    ],
+    "commonMistakes": ["重量过大", "前臂借力抬起", "强行超出手腕范围"],
+    "variationNote": "掌心向下，用伸腕动作抬起重量。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "tricep-pushdown": {
+    "name": "绳索下压",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "rope-tricep-pushdown": {
+    "name": "绳索绳把下压",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。 伸肘接近底部时可自然分开绳把。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "伸肘接近底部时可自然分开绳把。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "overhead-tricep-extension": {
+    "name": "过顶臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。 上臂保持在头部两侧，避免腰部过度后仰。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "上臂保持在头部两侧，避免腰部过度后仰。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "skull-crusher": {
+    "name": "仰卧杠铃臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。 仰卧握杆，缓慢屈肘，不让重量失控靠近面部。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "仰卧握杆，缓慢屈肘，不让重量失控靠近面部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Barbell"],
+    "illustrationNotes": []
+  },
+  "dumbbell-skull-crusher": {
+    "name": "仰卧双哑铃臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。 每手一只哑铃，分别控制两侧肘部。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "每手一只哑铃，分别控制两侧肘部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": ["部分帧不能清晰区分两只哑铃，配合文字理解每手持一只的版本。"]
+  },
+  "single-dumbbell-skullcrusher": {
+    "name": "仰卧单哑铃臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。 双手共同持一只哑铃，记录该哑铃总重。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "双手共同持一只哑铃，记录该哑铃总重。 两侧分别完成，以较弱侧能控制的幅度和负荷为起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell", "Bench"],
+    "illustrationNotes": []
+  },
+  "dumbbell-overhead-tricep-extension": {
+    "name": "哑铃过顶臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。 双手持一只哑铃，记录该哑铃总重。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "双手持一只哑铃，记录该哑铃总重。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "single-arm-dumbbell-tricep-extension": {
+    "name": "单臂哑铃臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。 单手持哑铃，另一手可辅助稳定上臂。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "单手持哑铃，另一手可辅助稳定上臂。 两侧分别完成，以较弱侧能控制的幅度和负荷为起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "tricep-kickback": {
+    "name": "哑铃臂后伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "push",
+    "steps": [
+      "按变式站稳、坐稳或仰卧，握稳器械并放置上臂。",
+      "保持上臂相对稳定，通过伸肘移动重量。 俯身保持上臂贴近躯干，向后伸肘。",
+      "缓慢屈肘返回起点，避免重量靠近面部时失控。"
+    ],
+    "commonMistakes": ["摆动上臂", "反弓腰", "突然锁肘或砸落重量"],
+    "variationNote": "俯身保持上臂贴近躯干，向后伸肘。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "dip": {
+    "name": "双杠臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳双杠或支撑边缘，肩部稳定，按变式放置身体与辅助。",
+      "屈肘缓慢下降到肩部舒适范围，再通过伸肘推起。",
+      "回到可控支撑姿势，结束时稳妥落脚。"
+    ],
+    "commonMistakes": ["下降过深", "肩部前顶", "摆动身体", "支撑物滑动"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Parallel Bars"],
+    "illustrationNotes": []
+  },
+  "assisted-dip": {
+    "name": "辅助双杠臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳双杠或支撑边缘，肩部稳定，按变式放置身体与辅助。",
+      "屈肘缓慢下降到肩部舒适范围，再通过伸肘推起。 辅助重量越大通常越容易，记录辅助档位重量。",
+      "回到可控支撑姿势，结束时稳妥落脚。"
+    ],
+    "commonMistakes": ["下降过深", "肩部前顶", "摆动身体", "支撑物滑动"],
+    "variationNote": "辅助重量越大通常越容易，记录辅助档位重量。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": ["图中为凳边支撑形态，未明确表现辅助双杠机，与上游器械分类存在差异。"]
+  },
+  "chest-dip": {
+    "name": "胸式双杠臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳双杠或支撑边缘，肩部稳定，按变式放置身体与辅助。",
+      "屈肘缓慢下降到肩部舒适范围，再通过伸肘推起。 躯干适度前倾，在肩部舒适范围下降。",
+      "回到可控支撑姿势，结束时稳妥落脚。"
+    ],
+    "commonMistakes": ["下降过深", "肩部前顶", "摆动身体", "支撑物滑动"],
+    "variationNote": "躯干适度前倾，在肩部舒适范围下降。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Parallel Bars"],
+    "illustrationNotes": []
+  },
+  "weighted-dip": {
+    "name": "负重双杠臂屈伸",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳双杠或支撑边缘，肩部稳定，按变式放置身体与辅助。",
+      "屈肘缓慢下降到肩部舒适范围，再通过伸肘推起。 可靠固定额外负重，记录额外公斤数。",
+      "回到可控支撑姿势，结束时稳妥落脚。"
+    ],
+    "commonMistakes": ["下降过深", "肩部前顶", "摆动身体", "支撑物滑动"],
+    "variationNote": "可靠固定额外负重，记录额外公斤数。 额外负重应可靠固定；先掌握对应自重动作。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Parallel Bars"],
+    "illustrationNotes": []
+  },
+  "bench-dip": {
+    "name": "凳上臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳双杠或支撑边缘，肩部稳定，按变式放置身体与辅助。",
+      "屈肘缓慢下降到肩部舒适范围，再通过伸肘推起。 双手在身体后方扶凳，肩部不适时减小幅度或换动作。",
+      "回到可控支撑姿势，结束时稳妥落脚。"
+    ],
+    "commonMistakes": ["下降过深", "肩部前顶", "摆动身体", "支撑物滑动"],
+    "variationNote": "双手在身体后方扶凳，肩部不适时减小幅度或换动作。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "chair-dip": {
+    "name": "椅上臂屈伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "握稳双杠或支撑边缘，肩部稳定，按变式放置身体与辅助。",
+      "屈肘缓慢下降到肩部舒适范围，再通过伸肘推起。 使用不会滑动或翻倒的牢固椅子。",
+      "回到可控支撑姿势，结束时稳妥落脚。"
+    ],
+    "commonMistakes": ["下降过深", "肩部前顶", "摆动身体", "支撑物滑动"],
+    "variationNote": "使用不会滑动或翻倒的牢固椅子。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Chair"],
+    "illustrationNotes": []
+  },
+  "plank": {
+    "name": "平板支撑",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式建立前臂或手掌支撑，收紧腹部，头颈自然。",
+      "保持肩、髋与支撑点稳定；动态变式在稳定躯干基础上移动四肢。",
+      "保持均匀呼吸，到时或姿势无法维持时结束并缓慢落地。"
+    ],
+    "commonMistakes": ["塌腰", "过度抬臀", "憋气", "为了延长时间牺牲姿势"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "side-plank": {
+    "name": "侧平板支撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式建立前臂或手掌支撑，收紧腹部，头颈自然。",
+      "保持肩、髋与支撑点稳定；动态变式在稳定躯干基础上移动四肢。 侧向以前臂和脚支撑，保持肩髋脚大致成直线。",
+      "保持均匀呼吸，到时或姿势无法维持时结束并缓慢落地。"
+    ],
+    "commonMistakes": ["塌腰", "过度抬臀", "憋气", "为了延长时间牺牲姿势"],
+    "variationNote": "侧向以前臂和脚支撑，保持肩髋脚大致成直线。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "bear-plank": {
+    "name": "熊式平板支撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式建立前臂或手掌支撑，收紧腹部，头颈自然。",
+      "保持肩、髋与支撑点稳定；动态变式在稳定躯干基础上移动四肢。 四点跪姿，膝盖略离地面，背部保持稳定。",
+      "保持均匀呼吸，到时或姿势无法维持时结束并缓慢落地。"
+    ],
+    "commonMistakes": ["塌腰", "过度抬臀", "憋气", "为了延长时间牺牲姿势"],
+    "variationNote": "四点跪姿，膝盖略离地面，背部保持稳定。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "copenhagen-plank": {
+    "name": "哥本哈根侧平板",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式建立前臂或手掌支撑，收紧腹部，头颈自然。",
+      "保持肩、髋与支撑点稳定；动态变式在稳定躯干基础上移动四肢。 上侧腿放在稳固训练凳上，先用屈膝短杠杆版本。",
+      "保持均匀呼吸，到时或姿势无法维持时结束并缓慢落地。"
+    ],
+    "commonMistakes": ["塌腰", "过度抬臀", "憋气", "为了延长时间牺牲姿势"],
+    "variationNote": "上侧腿放在稳固训练凳上，先用屈膝短杠杆版本。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Bench"],
+    "illustrationNotes": []
+  },
+  "plank-shoulder-tap": {
+    "name": "平板交替触肩",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式建立前臂或手掌支撑，收紧腹部，头颈自然。",
+      "保持肩、髋与支撑点稳定；动态变式在稳定躯干基础上移动四肢。 高位平板姿势交替触肩，减少骨盆旋转。",
+      "保持均匀呼吸，到时或姿势无法维持时结束并缓慢落地。"
+    ],
+    "commonMistakes": ["塌腰", "过度抬臀", "憋气", "为了延长时间牺牲姿势"],
+    "variationNote": "高位平板姿势交替触肩，减少骨盆旋转。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "plank-jack": {
+    "name": "平板开合跳",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式建立前臂或手掌支撑，收紧腹部，头颈自然。",
+      "保持肩、髋与支撑点稳定；动态变式在稳定躯干基础上移动四肢。 高位平板姿势双脚轻跳开合，躯干不随之塌落。",
+      "保持均匀呼吸，到时或姿势无法维持时结束并缓慢落地。"
+    ],
+    "commonMistakes": ["塌腰", "过度抬臀", "憋气", "为了延长时间牺牲姿势"],
+    "variationNote": "高位平板姿势双脚轻跳开合，躯干不随之塌落。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "side-plank-hip-dip": {
+    "name": "侧平板髋下沉",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式建立前臂或手掌支撑，收紧腹部，头颈自然。",
+      "保持肩、髋与支撑点稳定；动态变式在稳定躯干基础上移动四肢。 在侧平板姿势中小幅降低和抬起髋部。",
+      "保持均匀呼吸，到时或姿势无法维持时结束并缓慢落地。"
+    ],
+    "commonMistakes": ["塌腰", "过度抬臀", "憋气", "为了延长时间牺牲姿势"],
+    "variationNote": "在侧平板姿势中小幅降低和抬起髋部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "hanging-leg-raise": {
+    "name": "悬垂举腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式悬垂、靠稳器械或仰卧，先稳定肩部与躯干。",
+      "收紧腹部，缓慢抬膝或抬腿，避免摆动借力。",
+      "控制降低双腿，腰背失去稳定前停止下降。"
+    ],
+    "commonMistakes": ["甩腿", "过度拱腰", "用颈部前伸代偿"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight", "Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "hanging-knee-raise": {
+    "name": "悬垂提膝",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式悬垂、靠稳器械或仰卧，先稳定肩部与躯干。",
+      "收紧腹部，缓慢抬膝或抬腿，避免摆动借力。 屈膝抬向胸前，避免前后摆荡。",
+      "控制降低双腿，腰背失去稳定前停止下降。"
+    ],
+    "commonMistakes": ["甩腿", "过度拱腰", "用颈部前伸代偿"],
+    "variationNote": "屈膝抬向胸前，避免前后摆荡。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "captains-chair-knee-raise": {
+    "name": "罗马椅提膝",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式悬垂、靠稳器械或仰卧，先稳定肩部与躯干。",
+      "收紧腹部，缓慢抬膝或抬腿，避免摆动借力。 前臂支撑器械扶垫，背靠垫面抬膝。",
+      "控制降低双腿，腰背失去稳定前停止下降。"
+    ],
+    "commonMistakes": ["甩腿", "过度拱腰", "用颈部前伸代偿"],
+    "variationNote": "前臂支撑器械扶垫，背靠垫面抬膝。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "lying-leg-raise": {
+    "name": "仰卧举腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式悬垂、靠稳器械或仰卧，先稳定肩部与躯干。",
+      "收紧腹部，缓慢抬膝或抬腿，避免摆动借力。 仰卧控制双腿起落，腰部将离地时停止下降。",
+      "控制降低双腿，腰背失去稳定前停止下降。"
+    ],
+    "commonMistakes": ["甩腿", "过度拱腰", "用颈部前伸代偿"],
+    "variationNote": "仰卧控制双腿起落，腰部将离地时停止下降。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "seated-knee-tuck": {
+    "name": "坐姿收膝",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式悬垂、靠稳器械或仰卧，先稳定肩部与躯干。",
+      "收紧腹部，缓慢抬膝或抬腿，避免摆动借力。 坐稳后收膝靠近躯干，不靠大幅摆腿。",
+      "控制降低双腿，腰背失去稳定前停止下降。"
+    ],
+    "commonMistakes": ["甩腿", "过度拱腰", "用颈部前伸代偿"],
+    "variationNote": "坐稳后收膝靠近躯干，不靠大幅摆腿。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": ["图中为双杠支撑提膝，与坐姿收膝的支撑方式存在差异。"]
+  },
+  "cable-crunch": {
+    "name": "绳索卷腹",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。 跪姿持绳，胸廓向骨盆靠近，不变成单纯屈髋。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "跪姿持绳，胸廓向骨盆靠近，不变成单纯屈髋。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": ["部分帧表现为蹲姿，不能作为跪姿绳索卷腹的逐帧教学。"]
+  },
+  "crunch": {
+    "name": "卷腹",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "reverse-crunch": {
+    "name": "反向卷腹",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。 骨盆向胸廓卷起，不靠甩腿抬髋。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "骨盆向胸廓卷起，不靠甩腿抬髋。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "bicycle-crunch": {
+    "name": "自行车卷腹",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。 交替转动躯干靠近对侧膝，不用手拉颈部。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "交替转动躯干靠近对侧膝，不用手拉颈部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "decline-sit-up": {
+    "name": "下斜仰卧起坐",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。 在下斜凳固定双脚，控制起落速度。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "在下斜凳固定双脚，控制起落速度。 使用下斜训练凳并确认脚部支撑。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bench"],
+    "illustrationNotes": []
+  },
+  "weighted-crunch": {
+    "name": "负重卷腹",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。 重量稳定放在胸前，不伸臂甩动借力。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "重量稳定放在胸前，不伸臂甩动借力。 额外负重应可靠固定；先掌握对应自重动作。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Plate"],
+    "illustrationNotes": []
+  },
+  "v-up": {
+    "name": "V字两头起",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。 躯干和双腿同时抬起，不能控制时先屈膝。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "躯干和双腿同时抬起，不能控制时先屈膝。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "toe-touch": {
+    "name": "仰卧触脚尖",
+    "aliases": ["仰卧触趾"],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。 双腿抬起，卷起上背靠近脚尖。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "双腿抬起，卷起上背靠近脚尖。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": ["图中为站姿前屈，未表现本地核心训练说明中的仰卧触脚尖。"]
+  },
+  "heel-tap": {
+    "name": "仰卧交替触脚跟",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或跪稳，保持头颈自然，固定负重或绳索。",
+      "通过腹部收缩让胸廓与骨盆靠近；按变式完成卷起或收膝。 屈膝仰卧，躯干左右小幅侧屈触脚跟。",
+      "缓慢回到起点，不用手拉扯头颈。"
+    ],
+    "commonMistakes": ["拉颈", "借惯性甩动", "把所有动作都做成髋屈曲"],
+    "variationNote": "屈膝仰卧，躯干左右小幅侧屈触脚跟。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "russian-twist": {
+    "name": "俄罗斯转体",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "站稳或坐稳，按变式握住器械，先保持躯干稳定。",
+      "在可控范围转动或侧屈躯干，髋部和脚部按动作需要自然配合。",
+      "缓慢返回并换侧，不突然扭转腰部。"
+    ],
+    "commonMistakes": ["仅甩动双手", "用大幅度猛扭", "重量超出控制能力"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "weighted-russian-twist": {
+    "name": "负重俄罗斯转体",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "站稳或坐稳，按变式握住器械，先保持躯干稳定。",
+      "在可控范围转动或侧屈躯干，髋部和脚部按动作需要自然配合。 持稳胸前重量，随躯干一起转动。",
+      "缓慢返回并换侧，不突然扭转腰部。"
+    ],
+    "commonMistakes": ["仅甩动双手", "用大幅度猛扭", "重量超出控制能力"],
+    "variationNote": "持稳胸前重量，随躯干一起转动。 额外负重应可靠固定；先掌握对应自重动作。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "cable-woodchop": {
+    "name": "绳索伐木",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "站稳或坐稳，按变式握住器械，先保持躯干稳定。",
+      "在可控范围转动或侧屈躯干，髋部和脚部按动作需要自然配合。 沿滑轮到对侧髋部的斜线转动，脚和髋可自然配合。",
+      "缓慢返回并换侧，不突然扭转腰部。"
+    ],
+    "commonMistakes": ["仅甩动双手", "用大幅度猛扭", "重量超出控制能力"],
+    "variationNote": "沿滑轮到对侧髋部的斜线转动，脚和髋可自然配合。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "banded-woodchop": {
+    "name": "弹力带伐木",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "站稳或坐稳，按变式握住器械，先保持躯干稳定。",
+      "在可控范围转动或侧屈躯干，髋部和脚部按动作需要自然配合。 先确认锚点稳定，控制弹力带回弹。",
+      "缓慢返回并换侧，不突然扭转腰部。"
+    ],
+    "commonMistakes": ["仅甩动双手", "用大幅度猛扭", "重量超出控制能力"],
+    "variationNote": "先确认锚点稳定，控制弹力带回弹。 检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "dumbbell-side-bend": {
+    "name": "哑铃体侧屈",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "站稳或坐稳，按变式握住器械，先保持躯干稳定。",
+      "在可控范围转动或侧屈躯干，髋部和脚部按动作需要自然配合。 向侧面小幅屈曲再回正，避免同时扭转。",
+      "缓慢返回并换侧，不突然扭转腰部。"
+    ],
+    "commonMistakes": ["仅甩动双手", "用大幅度猛扭", "重量超出控制能力"],
+    "variationNote": "向侧面小幅屈曲再回正，避免同时扭转。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "pallof-press": {
+    "name": "帕洛夫抗旋转推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "侧对绳索或弹力带锚点，双手将把手置于胸前，站稳或半跪。",
+      "双手向前伸出，抵抗器械把身体转向一侧的力量。",
+      "保持或缓慢收回胸前，再换侧，骨盆和胸部始终朝前。"
+    ],
+    "commonMistakes": ["躯干跟着转动", "耸肩", "腰部后仰"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "half-kneeling-pallof-press": {
+    "name": "半跪姿帕洛夫推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "侧对绳索或弹力带锚点，双手将把手置于胸前，站稳或半跪。",
+      "双手向前伸出，抵抗器械把身体转向一侧的力量。 一膝跪地，骨盆保持正向。",
+      "保持或缓慢收回胸前，再换侧，骨盆和胸部始终朝前。"
+    ],
+    "commonMistakes": ["躯干跟着转动", "耸肩", "腰部后仰"],
+    "variationNote": "一膝跪地，骨盆保持正向。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "cable-pallof-hold": {
+    "name": "绳索帕洛夫静态保持",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "侧对绳索或弹力带锚点，双手将把手置于胸前，站稳或半跪。",
+      "双手向前伸出，抵抗器械把身体转向一侧的力量。 双臂伸出后保持，按时间记录，不记录为重复次数。",
+      "保持或缓慢收回胸前，再换侧，骨盆和胸部始终朝前。"
+    ],
+    "commonMistakes": ["躯干跟着转动", "耸肩", "腰部后仰"],
+    "variationNote": "双臂伸出后保持，按时间记录，不记录为重复次数。 按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "banded-pallof-press": {
+    "name": "弹力带帕洛夫推",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "侧对绳索或弹力带锚点，双手将把手置于胸前，站稳或半跪。",
+      "双手向前伸出，抵抗器械把身体转向一侧的力量。",
+      "保持或缓慢收回胸前，再换侧，骨盆和胸部始终朝前。"
+    ],
+    "commonMistakes": ["躯干跟着转动", "耸肩", "腰部后仰"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "dead-bug": {
+    "name": "死虫式",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "仰卧，抬起双臂和屈膝双腿，保持腰背稳定。",
+      "缓慢向远端伸展对侧手臂和腿，腰部不拱起。",
+      "回到起点后换侧，使用能维持腹部控制的幅度。"
+    ],
+    "commonMistakes": ["腰部离地拱起", "动作过快", "屏住呼吸"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "banded-dead-bug": {
+    "name": "弹力带死虫式",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "仰卧，抬起双臂和屈膝双腿，保持腰背稳定。",
+      "缓慢向远端伸展对侧手臂和腿，腰部不拱起。 保持弹力带张力，交替伸腿时避免腰部拱起。",
+      "回到起点后换侧，使用能维持腹部控制的幅度。"
+    ],
+    "commonMistakes": ["腰部离地拱起", "动作过快", "屏住呼吸"],
+    "variationNote": "保持弹力带张力，交替伸腿时避免腰部拱起。 检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "bird-dog": {
+    "name": "鸟狗式",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "四点跪姿，手在肩下、膝在髋下，背部保持自然。",
+      "向前伸一侧手臂，同时向后伸对侧腿，骨盆保持水平。",
+      "缓慢收回，换侧重复，不追求抬得更高。"
+    ],
+    "commonMistakes": ["扭转骨盆", "腰部过伸", "头部过度抬起"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "recommendation-reviewed",
+    "recommendationEligible": true,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "ab-wheel": {
+    "name": "健腹轮前滚",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式跪稳持轮或站稳准备爬行，收紧腹部与臀部。",
+      "缓慢向前移动双手或滚轮，只到腰部能保持稳定的位置。",
+      "通过躯干控制收回，不以塌腰换取更远距离。"
+    ],
+    "commonMistakes": ["前移过远", "塌腰", "靠猛拉髋部返回"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "inchworm": {
+    "name": "尺蠖爬行",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式跪稳持轮或站稳准备爬行，收紧腹部与臀部。",
+      "缓慢向前移动双手或滚轮，只到腰部能保持稳定的位置。 站姿前屈，双手逐步向前走到平板，再回收。",
+      "通过躯干控制收回，不以塌腰换取更远距离。"
+    ],
+    "commonMistakes": ["前移过远", "塌腰", "靠猛拉髋部返回"],
+    "variationNote": "站姿前屈，双手逐步向前走到平板，再回收。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "back-extension": {
+    "name": "背部伸展",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "按变式俯卧或固定在背伸器械上，保持头颈自然。",
+      "通过髋部或背部的小幅受控伸展抬起躯干或双腿。",
+      "回到起点，不在高位挤压腰部或追求过伸。"
+    ],
+    "commonMistakes": ["抬得过高", "快速甩动", "颈部后仰"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "glute-focused-back-extension": {
+    "name": "臀部主导背伸",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "按变式俯卧或固定在背伸器械上，保持头颈自然。",
+      "通过髋部或背部的小幅受控伸展抬起躯干或双腿。 通过屈髋与伸髋起落，不以腰部过伸抬高躯干。",
+      "回到起点，不在高位挤压腰部或追求过伸。"
+    ],
+    "commonMistakes": ["抬得过高", "快速甩动", "颈部后仰"],
+    "variationNote": "通过屈髋与伸髋起落，不以腰部过伸抬高躯干。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "reverse-hyperextension": {
+    "name": "反向挺身",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "按变式俯卧或固定在背伸器械上，保持头颈自然。",
+      "通过髋部或背部的小幅受控伸展抬起躯干或双腿。 躯干支撑在专用台面上，双腿从髋部向后抬起。",
+      "回到起点，不在高位挤压腰部或追求过伸。"
+    ],
+    "commonMistakes": ["抬得过高", "快速甩动", "颈部后仰"],
+    "variationNote": "躯干支撑在专用台面上，双腿从髋部向后抬起。 调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "superman": {
+    "name": "超人式",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "按变式俯卧或固定在背伸器械上，保持头颈自然。",
+      "通过髋部或背部的小幅受控伸展抬起躯干或双腿。",
+      "回到起点，不在高位挤压腰部或追求过伸。"
+    ],
+    "commonMistakes": ["抬得过高", "快速甩动", "颈部后仰"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "superman-hold": {
+    "name": "超人式静态保持",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "按变式俯卧或固定在背伸器械上，保持头颈自然。",
+      "通过髋部或背部的小幅受控伸展抬起躯干或双腿。 抬起后做短时保持，维持自然呼吸。",
+      "回到起点，不在高位挤压腰部或追求过伸。"
+    ],
+    "commonMistakes": ["抬得过高", "快速甩动", "颈部后仰"],
+    "variationNote": "抬起后做短时保持，维持自然呼吸。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "prone-y-raise": {
+    "name": "俯卧Y字抬臂",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "俯卧，额头可轻靠软垫，按字母形状摆放双臂。",
+      "通过肩部控制小幅抬臂或划弧，躯干尽量不动。 双臂斜向前上方构成Y形，小幅抬离地面。",
+      "缓慢落回起点，保持呼吸。"
+    ],
+    "commonMistakes": ["耸肩", "挺腰代偿", "抬头过高"],
+    "variationNote": "双臂斜向前上方构成Y形，小幅抬离地面。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "prone-t-raise": {
+    "name": "俯卧T字抬臂",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "俯卧，额头可轻靠软垫，按字母形状摆放双臂。",
+      "通过肩部控制小幅抬臂或划弧，躯干尽量不动。 双臂向两侧构成T形，小幅抬离地面。",
+      "缓慢落回起点，保持呼吸。"
+    ],
+    "commonMistakes": ["耸肩", "挺腰代偿", "抬头过高"],
+    "variationNote": "双臂向两侧构成T形，小幅抬离地面。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": ["图中出现训练凳和哑铃；本条保留上游徒手分类，文字介绍徒手版本。"]
+  },
+  "reverse-snow-angel": {
+    "name": "反向雪天使",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "pull",
+    "steps": [
+      "俯卧，额头可轻靠软垫，按字母形状摆放双臂。",
+      "通过肩部控制小幅抬臂或划弧，躯干尽量不动。 俯卧，双臂缓慢从身体两侧划向头顶再返回。",
+      "缓慢落回起点，保持呼吸。"
+    ],
+    "commonMistakes": ["耸肩", "挺腰代偿", "抬头过高"],
+    "variationNote": "俯卧，双臂缓慢从身体两侧划向头顶再返回。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "cable-kickback": {
+    "name": "绳索后踢腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式站立、跪姿或靠稳器械，骨盆朝向前方。",
+      "从髋部把工作腿向后移动，维持腹部稳定。",
+      "缓慢收回工作腿，左右分别完成。"
+    ],
+    "commonMistakes": ["反弓腰代替伸髋", "骨盆扭转", "快速甩腿"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "machine-glute-kickback": {
+    "name": "器械臀部后蹬",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式站立、跪姿或靠稳器械，骨盆朝向前方。",
+      "从髋部把工作腿向后移动，维持腹部稳定。",
+      "缓慢收回工作腿，左右分别完成。"
+    ],
+    "commonMistakes": ["反弓腰代替伸髋", "骨盆扭转", "快速甩腿"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "donkey-kick": {
+    "name": "跪姿后踢腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式站立、跪姿或靠稳器械，骨盆朝向前方。",
+      "从髋部把工作腿向后移动，维持腹部稳定。 四点跪姿，屈膝向后上方抬腿。",
+      "缓慢收回工作腿，左右分别完成。"
+    ],
+    "commonMistakes": ["反弓腰代替伸髋", "骨盆扭转", "快速甩腿"],
+    "variationNote": "四点跪姿，屈膝向后上方抬腿。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "banded-donkey-kick": {
+    "name": "弹力带跪姿后踢腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式站立、跪姿或靠稳器械，骨盆朝向前方。",
+      "从髋部把工作腿向后移动，维持腹部稳定。",
+      "缓慢收回工作腿，左右分别完成。"
+    ],
+    "commonMistakes": ["反弓腰代替伸髋", "骨盆扭转", "快速甩腿"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "banded-kickback": {
+    "name": "弹力带后踢腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "hinge",
+    "steps": [
+      "按变式站立、跪姿或靠稳器械，骨盆朝向前方。",
+      "从髋部把工作腿向后移动，维持腹部稳定。",
+      "缓慢收回工作腿，左右分别完成。"
+    ],
+    "commonMistakes": ["反弓腰代替伸髋", "骨盆扭转", "快速甩腿"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "hip-abduction-machine": {
+    "name": "器械髋外展",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "cable-standing-hip-abduction": {
+    "name": "站姿绳索髋外展",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "fire-hydrant": {
+    "name": "跪姿侧抬腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。 四点跪姿保持屈膝，向侧面抬腿。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "四点跪姿保持屈膝，向侧面抬腿。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "clamshell": {
+    "name": "蚌式开合",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。 侧卧屈膝，双脚相贴，上侧膝向外打开。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "侧卧屈膝，双脚相贴，上侧膝向外打开。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "side-lying-hip-abduction": {
+    "name": "侧卧髋外展",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "side-lying-leg-raise": {
+    "name": "侧卧抬腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "banded-clamshell": {
+    "name": "弹力带蚌式开合",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "banded-fire-hydrant": {
+    "name": "弹力带跪姿侧抬腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "banded-standing-hip-abduction": {
+    "name": "站姿弹力带髋外展",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "banded-seated-hip-abduction": {
+    "name": "坐姿弹力带髋外展",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式侧卧、跪姿、站立或坐稳，保持骨盆稳定。",
+      "将工作腿或膝盖向身体外侧打开，幅度保持可控。",
+      "缓慢收回，不让重量或弹力带突然拉回。"
+    ],
+    "commonMistakes": ["扭转躯干", "甩腿", "腰部侧屈借力"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "cable-standing-hip-adduction": {
+    "name": "站姿绳索髋内收",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式站稳或坐稳，将器械垫或绳索固定在对应位置。",
+      "工作腿向身体中线靠近，保持躯干与骨盆稳定。",
+      "缓慢向外返回，不强求大幅度。"
+    ],
+    "commonMistakes": ["甩动身体", "起点拉得过开", "配重回弹"],
+    "variationNote": "按动作方向调整滑轮高度，检查插销与把手连接。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cable"],
+    "illustrationNotes": []
+  },
+  "hip-adduction-machine": {
+    "name": "器械髋内收",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按变式站稳或坐稳，将器械垫或绳索固定在对应位置。",
+      "工作腿向身体中线靠近，保持躯干与骨盆稳定。",
+      "缓慢向外返回，不强求大幅度。"
+    ],
+    "commonMistakes": ["甩动身体", "起点拉得过开", "配重回弹"],
+    "variationNote": "调节座椅、靠垫和活动限位，使其适合自身身高。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Machine"],
+    "illustrationNotes": []
+  },
+  "banded-lateral-walk": {
+    "name": "弹力带侧向行走",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按图示套好弹力带，微屈髋膝，双脚保留张力。",
+      "小步向侧方或斜前方移动，保持膝盖与脚尖同向。",
+      "后脚受控跟进，保持带子张力，换方向重复。"
+    ],
+    "commonMistakes": ["膝盖内扣", "拖脚失衡", "每步完全放松带子"],
+    "variationNote": "检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "banded-monster-walk": {
+    "name": "弹力带怪兽走",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "other",
+    "steps": [
+      "按图示套好弹力带，微屈髋膝，双脚保留张力。",
+      "小步向侧方或斜前方移动，保持膝盖与脚尖同向。 微屈髋膝，交替向斜前方迈步。",
+      "后脚受控跟进，保持带子张力，换方向重复。"
+    ],
+    "commonMistakes": ["膝盖内扣", "拖脚失衡", "每步完全放松带子"],
+    "variationNote": "微屈髋膝，交替向斜前方迈步。 检查弹力带是否完好；有固定点时先确认锚点牢固。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Resistance Band"],
+    "illustrationNotes": []
+  },
+  "hip-airplane": {
+    "name": "髋部飞机式",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "hinge",
+    "steps": [
+      "单腿站立，可扶稳支撑，躯干从髋部前倾。",
+      "保持支撑腿稳定，小幅打开和闭合骨盆。",
+      "缓慢回正并换侧，先掌握平衡再增加幅度。"
+    ],
+    "commonMistakes": ["扭转膝关节", "失去足底支撑", "动作过快"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "kettlebell-swing": {
+    "name": "壶铃摆荡",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "hinge",
+    "steps": [
+      "双脚站稳，双手握壶铃，屈髋让壶铃进入双腿之间。",
+      "通过快速伸髋带动壶铃向前摆起，手臂主要负责连接。",
+      "随壶铃回落再次屈髋，保持背部稳定。"
+    ],
+    "commonMistakes": ["用手臂硬抬", "深蹲代替髋铰链", "顶端腰部后仰"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Kettlebell"],
+    "illustrationNotes": []
+  },
+  "farmer-carry": {
+    "name": "农夫行走",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "carry",
+    "steps": [
+      "双手持稳器械站直，收紧腹部，肩部自然。",
+      "以小步稳定行走，保持身体不过度侧倾。",
+      "到达目标时间或距离后站稳，屈髋屈膝放下重量。"
+    ],
+    "commonMistakes": ["耸肩", "拖着重量快跑", "失控放下器械"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Dumbbell"],
+    "illustrationNotes": []
+  },
+  "dead-hang": {
+    "name": "被动悬垂",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢可承重单杠，必要时借助踏台建立支撑。",
+      "按变式保持被动或主动悬垂，维持舒适肩部位置。 在肩部舒适范围悬垂，避免突然下坠。",
+      "到时或握力不足前落脚到踏台，稳妥结束。"
+    ],
+    "commonMistakes": ["突然下坠", "握持松脱", "在肩部疼痛时强撑"],
+    "variationNote": "在肩部舒适范围悬垂，避免突然下坠。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "active-hang": {
+    "name": "主动悬垂",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "compound",
+    "pattern": "pull",
+    "steps": [
+      "握牢可承重单杠，必要时借助踏台建立支撑。",
+      "按变式保持被动或主动悬垂，维持舒适肩部位置。 保持肘伸直，肩胛下沉，让肩部主动承重。",
+      "到时或握力不足前落脚到踏台，稳妥结束。"
+    ],
+    "commonMistakes": ["突然下坠", "握持松脱", "在肩部疼痛时强撑"],
+    "variationNote": "保持肘伸直，肩胛下沉，让肩部主动承重。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Pull-up Bar"],
+    "illustrationNotes": []
+  },
+  "wall-walk": {
+    "name": "靠墙爬行倒立",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "compound",
+    "pattern": "push",
+    "steps": [
+      "面向地面建立平板支撑，双脚靠近牢固墙面，确认周围空间。",
+      "脚沿墙面逐步向上走，双手小步靠近墙面，腹部保持稳定。",
+      "在可控高度停止，沿相反路线逐步返回。"
+    ],
+    "commonMistakes": ["进得过高无法返回", "塌腰", "头颈承重"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Wall"],
+    "illustrationNotes": []
+  },
+  "hollow-body-hold": {
+    "name": "船式静态支撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或双手支撑，先建立腹部紧张与腰背控制。",
+      "保持或小幅移动四肢，选择能维持躯干稳定的杠杆长度。",
+      "到时或姿势失稳前停止，缓慢回到支撑面。"
+    ],
+    "commonMistakes": ["腰部拱起", "颈部紧张", "过早伸直双腿增加难度"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "hollow-rock": {
+    "name": "船式摇摆",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或双手支撑，先建立腹部紧张与腰背控制。",
+      "保持或小幅移动四肢，选择能维持躯干稳定的杠杆长度。 保持身体弧度不变，小幅前后摇摆。",
+      "到时或姿势失稳前停止，缓慢回到支撑面。"
+    ],
+    "commonMistakes": ["腰部拱起", "颈部紧张", "过早伸直双腿增加难度"],
+    "variationNote": "保持身体弧度不变，小幅前后摇摆。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "flutter-kick": {
+    "name": "仰卧交替打腿",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或双手支撑，先建立腹部紧张与腰背控制。",
+      "保持或小幅移动四肢，选择能维持躯干稳定的杠杆长度。 双腿小幅交替起落，腰部保持稳定。",
+      "到时或姿势失稳前停止，缓慢回到支撑面。"
+    ],
+    "commonMistakes": ["腰部拱起", "颈部紧张", "过早伸直双腿增加难度"],
+    "variationNote": "双腿小幅交替起落，腰部保持稳定。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "l-sit-hold": {
+    "name": "L坐支撑",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或双手支撑，先建立腹部紧张与腰背控制。",
+      "保持或小幅移动四肢，选择能维持躯干稳定的杠杆长度。 双手撑在牢固支撑面，伸腿形成L形；可先屈膝。",
+      "到时或姿势失稳前停止，缓慢回到支撑面。"
+    ],
+    "commonMistakes": ["腰部拱起", "颈部紧张", "过早伸直双腿增加难度"],
+    "variationNote": "双手撑在牢固支撑面，伸腿形成L形；可先屈膝。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "dragon-flag": {
+    "name": "龙旗",
+    "aliases": [],
+    "difficulty": "advanced",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式仰卧或双手支撑，先建立腹部紧张与腰背控制。",
+      "保持或小幅移动四肢，选择能维持躯干稳定的杠杆长度。 上背支撑，身体整体缓慢下降；不让颈部承受主要负荷。",
+      "到时或姿势失稳前停止，缓慢回到支撑面。"
+    ],
+    "commonMistakes": ["腰部拱起", "颈部紧张", "过早伸直双腿增加难度"],
+    "variationNote": "上背支撑，身体整体缓慢下降；不让颈部承受主要负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "mountain-climber": {
+    "name": "登山跑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式用手脚稳定支撑，先收紧腹部。",
+      "小步交替移动四肢，尽量减少躯干摇摆。 高位平板姿势交替收膝向胸部。",
+      "维持均匀呼吸，姿势失稳时停止并恢复支撑。"
+    ],
+    "commonMistakes": ["步幅过大", "塌腰", "肩部支撑失稳"],
+    "variationNote": "高位平板姿势交替收膝向胸部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "bear-crawl": {
+    "name": "熊爬",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式用手脚稳定支撑，先收紧腹部。",
+      "小步交替移动四肢，尽量减少躯干摇摆。 膝盖略离地，对侧手脚小步交替移动。",
+      "维持均匀呼吸，姿势失稳时停止并恢复支撑。"
+    ],
+    "commonMistakes": ["步幅过大", "塌腰", "肩部支撑失稳"],
+    "variationNote": "膝盖略离地，对侧手脚小步交替移动。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "crab-walk": {
+    "name": "螃蟹爬行",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "core",
+    "pattern": "core",
+    "steps": [
+      "按变式用手脚稳定支撑，先收紧腹部。",
+      "小步交替移动四肢，尽量减少躯干摇摆。 面朝上以手脚支撑，髋部离地，小步移动。",
+      "维持均匀呼吸，姿势失稳时停止并恢复支撑。"
+    ],
+    "commonMistakes": ["步幅过大", "塌腰", "肩部支撑失稳"],
+    "variationNote": "面朝上以手脚支撑，髋部离地，小步移动。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "jump-squat": {
+    "name": "深蹲跳",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "确认落地空间，站稳并轻屈髋膝，按变式准备手部支撑。",
+      "完成起跳或蹲撑转换，保持每个支撑环节可控。 蹲起后轻跳，落地屈髋屈膝缓冲。",
+      "轻柔落地，屈髋屈膝缓冲，稳住后再重复。"
+    ],
+    "commonMistakes": ["直膝硬落地", "动作过快导致塌腰", "忽略周围空间"],
+    "variationNote": "蹲起后轻跳，落地屈髋屈膝缓冲。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "skater-hop": {
+    "name": "滑冰侧跳",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "确认落地空间，站稳并轻屈髋膝，按变式准备手部支撑。",
+      "完成起跳或蹲撑转换，保持每个支撑环节可控。 左右侧向跳跃，单腿落地时先稳住再换侧。",
+      "轻柔落地，屈髋屈膝缓冲，稳住后再重复。"
+    ],
+    "commonMistakes": ["直膝硬落地", "动作过快导致塌腰", "忽略周围空间"],
+    "variationNote": "左右侧向跳跃，单腿落地时先稳住再换侧。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "burpee": {
+    "name": "波比跳",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "确认落地空间，站稳并轻屈髋膝，按变式准备手部支撑。",
+      "完成起跳或蹲撑转换，保持每个支撑环节可控。 下蹲撑地、退到平板、回收双脚再起跳，动作连贯且可控。",
+      "轻柔落地，屈髋屈膝缓冲，稳住后再重复。"
+    ],
+    "commonMistakes": ["直膝硬落地", "动作过快导致塌腰", "忽略周围空间"],
+    "variationNote": "下蹲撑地、退到平板、回收双脚再起跳，动作连贯且可控。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "half-burpee": {
+    "name": "半波比",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "确认落地空间，站稳并轻屈髋膝，按变式准备手部支撑。",
+      "完成起跳或蹲撑转换，保持每个支撑环节可控。 下蹲撑地、双脚后撤到平板再收回，省略俯卧撑和高跳。",
+      "轻柔落地，屈髋屈膝缓冲，稳住后再重复。"
+    ],
+    "commonMistakes": ["直膝硬落地", "动作过快导致塌腰", "忽略周围空间"],
+    "variationNote": "下蹲撑地、双脚后撤到平板再收回，省略俯卧撑和高跳。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "squat-thrust": {
+    "name": "蹲撑后跳",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "确认落地空间，站稳并轻屈髋膝，按变式准备手部支撑。",
+      "完成起跳或蹲撑转换，保持每个支撑环节可控。 双手撑地，双脚后撤与收回，不让腰部塌落。",
+      "轻柔落地，屈髋屈膝缓冲，稳住后再重复。"
+    ],
+    "commonMistakes": ["直膝硬落地", "动作过快导致塌腰", "忽略周围空间"],
+    "variationNote": "双手撑地，双脚后撤与收回，不让腰部塌落。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "sprawl": {
+    "name": "后撤蹲撑",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "确认落地空间，站稳并轻屈髋膝，按变式准备手部支撑。",
+      "完成起跳或蹲撑转换，保持每个支撑环节可控。 从站姿快速下蹲撑地后撤双脚，再收回站起。",
+      "轻柔落地，屈髋屈膝缓冲，稳住后再重复。"
+    ],
+    "commonMistakes": ["直膝硬落地", "动作过快导致塌腰", "忽略周围空间"],
+    "variationNote": "从站姿快速下蹲撑地后撤双脚，再收回站起。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "running": {
+    "name": "跑步",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "walking": {
+    "name": "步行",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "cycling": {
+    "name": "骑行",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "rowing": {
+    "name": "划船机",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 按蹬腿、后倾、拉臂顺序发力，回程先伸臂再屈膝。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "按蹬腿、后倾、拉臂顺序发力，回程先伸臂再屈膝。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "stair-climber": {
+    "name": "爬楼机",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 脚掌稳踩踏板，避免把体重全部压在扶手上。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "脚掌稳踩踏板，避免把体重全部压在扶手上。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "elliptical": {
+    "name": "椭圆机",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 脚掌保持接触踏板，手脚协调移动。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "脚掌保持接触踏板，手脚协调移动。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "swimming": {
+    "name": "游泳",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 在适合自身能力且有人管理的水域训练。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "在适合自身能力且有人管理的水域训练。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": ["图中使用陆上模拟设备，不能视作水中泳姿教学。"]
+  },
+  "jump-rope": {
+    "name": "跳绳",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 用手腕带动绳子，小幅跳跃、轻柔落地。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "用手腕带动绳子，小幅跳跃、轻柔落地。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "assault-bike": {
+    "name": "风阻单车",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 手臂推拉与踩踏协调，先从低强度开始。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "手臂推拉与踩踏协调，先从低强度开始。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "skierg": {
+    "name": "滑雪机",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 手臂下拉配合小幅屈髋，控制手柄回程。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "手臂下拉配合小幅屈髋，控制手柄回程。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "hiking": {
+    "name": "徒步",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": ["图中为登阶设备，不是户外徒步场景。"]
+  },
+  "treadmill-incline-walk": {
+    "name": "跑步机坡度行走",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 先选择可维持稳定步态的速度与坡度。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "先选择可维持稳定步态的速度与坡度。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "battle-ropes": {
+    "name": "战绳",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 双脚稳站，交替或同时摆动双臂形成绳波。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "双脚稳站，交替或同时摆动双臂形成绳波。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Cardio"],
+    "illustrationNotes": []
+  },
+  "high-knees": {
+    "name": "高抬腿",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 交替抬膝，保持躯干直立并轻柔落地。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "交替抬膝，保持躯干直立并轻柔落地。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "jumping-jack": {
+    "name": "开合跳",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 手臂上举配合双脚跳开，再回到起点。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "手臂上举配合双脚跳开，再回到起点。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "lateral-shuffle": {
+    "name": "侧向滑步",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 保持微屈髋膝，双脚不交叉地侧向移动。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "保持微屈髋膝，双脚不交叉地侧向移动。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "fast-feet": {
+    "name": "快速小碎步",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 重心稳定，以短小步幅快速交替触地。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "重心稳定，以短小步幅快速交替触地。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "seal-jack": {
+    "name": "海豹开合跳",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "cardio",
+    "pattern": "other",
+    "steps": [
+      "检查场地或设备，调整到适合自己的位置，从轻松节奏开始。",
+      "按变式保持协调节奏，选择可以持续控制的速度。 双脚开合时双臂在胸前开合。",
+      "结束前逐步放慢，设备停止后再离开。"
+    ],
+    "commonMistakes": ["突然大幅提高速度", "疲劳后姿势失控", "未停稳就离开设备"],
+    "variationNote": "双脚开合时双臂在胸前开合。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": ["图中为双杠支撑开腿，与站姿海豹开合跳不一致。"]
+  },
+  "wall-sit": {
+    "name": "靠墙静蹲",
+    "aliases": [],
+    "difficulty": "intermediate",
+    "category": "isolation",
+    "pattern": "squat",
+    "steps": [
+      "背靠牢固墙面，双脚向前适度移动。",
+      "缓慢屈膝下滑至舒适深度，保持足底稳定并自然呼吸。",
+      "到时或姿势失稳前沿墙缓慢站起。"
+    ],
+    "commonMistakes": ["深度超出能力", "憋气", "膝盖内扣"],
+    "variationNote": "按图示选择支撑与握持位置，先以可控幅度熟悉动作，再增加负荷。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "cat-cow-stretch": {
+    "name": "猫牛式伸展",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 四点跪姿，随呼吸缓慢交替拱背与伸展。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "四点跪姿，随呼吸缓慢交替拱背与伸展。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "arm-circles": {
+    "name": "手臂绕环",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 站稳后以肩部带动手臂绕环，先小圈再适度扩大。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "站稳后以肩部带动手臂绕环，先小圈再适度扩大。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "worlds-greatest-stretch": {
+    "name": "弓步转体综合拉伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 低弓步位，一手撑地，另一手随胸椎转动向上打开。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "低弓步位，一手撑地，另一手随胸椎转动向上打开。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "leg-swings-stretch": {
+    "name": "摆腿活动",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 扶稳支撑，控制腿部前后或侧向摆动。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "扶稳支撑，控制腿部前后或侧向摆动。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "torso-twist-stretch": {
+    "name": "躯干转体活动",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 站立，骨盆稳定，在舒适范围左右转动胸廓。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "站立，骨盆稳定，在舒适范围左右转动胸廓。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": ["图中为坐姿持重转体，与本地站姿躯干活动说明不一致。"]
+  },
+  "doorway-chest-stretch": {
+    "name": "门框胸部拉伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 前臂贴门框，身体小幅向前，感受胸前牵伸。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "前臂贴门框，身体小幅向前，感受胸前牵伸。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Doorway"],
+    "illustrationNotes": []
+  },
+  "childs-pose": {
+    "name": "婴儿式",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 跪坐向后送髋，双臂前伸，舒适地放松背部。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "跪坐向后送髋，双臂前伸，舒适地放松背部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "kneeling-hip-flexor-stretch": {
+    "name": "跪姿髋屈肌拉伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 半跪姿收紧臀部并轻微后倾骨盆，再小幅前移。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "半跪姿收紧臀部并轻微后倾骨盆，再小幅前移。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "hamstring-stretch": {
+    "name": "腘绳肌拉伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 一腿前伸，保持背部自然，从髋部轻微前倾。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "一腿前伸，保持背部自然，从髋部轻微前倾。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "standing-quad-stretch": {
+    "name": "站姿股四头肌拉伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 扶稳支撑，屈膝轻握脚踝，使脚跟靠近臀部。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "扶稳支撑，屈膝轻握脚踝，使脚跟靠近臀部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "seated-forward-fold-stretch": {
+    "name": "坐姿前屈",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 坐姿双腿前伸，从髋部缓慢前倾，不强拉头部。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "坐姿双腿前伸，从髋部缓慢前倾，不强拉头部。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "cross-body-shoulder-stretch": {
+    "name": "横跨身体肩部拉伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 一臂横过胸前，另一臂轻托上臂向身体靠近。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "一臂横过胸前，另一臂轻托上臂向身体靠近。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "wall-calf-stretch": {
+    "name": "扶墙小腿拉伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 双手扶墙，后腿伸直、脚跟贴地，小幅前移重心。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "双手扶墙，后腿伸直、脚跟贴地，小幅前移重心。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  },
+  "butterfly-stretch": {
+    "name": "蝴蝶式拉伸",
+    "aliases": [],
+    "difficulty": "beginner",
+    "category": "mobility",
+    "pattern": "other",
+    "steps": [
+      "选择平稳支撑，在舒适姿势下开始，避免预先强拉关节。",
+      "按具体动作说明缓慢进入牵伸或活动范围，不追求疼痛感。 坐姿脚掌相对，膝盖自然下落，不强压膝关节。",
+      "保持自然呼吸，缓慢退出或受控重复，左右动作分别完成。"
+    ],
+    "commonMistakes": ["弹震硬压", "屏住呼吸", "以疼痛作为拉伸目标"],
+    "variationNote": "坐姿脚掌相对，膝盖自然下落，不强压膝关节。",
+    "editorialSource": "fitness-atlas",
+    "reviewStatus": "catalog-reviewed",
+    "recommendationEligible": false,
+    "requiredEquipment": ["Bodyweight"],
+    "illustrationNotes": []
+  }
+}

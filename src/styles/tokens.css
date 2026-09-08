@@ -1,0 +1,17 @@
+:root {
+  --color-text: #20201e;
+  --color-muted: #696964;
+  --color-border: #ddddd6;
+  --color-surface: #ffffff;
+  --color-page: #f8f8f5;
+  --color-illustration: #1c1c1c;
+  --color-target: #c73832;
+  --space-1: 0.5rem;
+  --space-2: 1rem;
+  --space-3: 1.5rem;
+  --space-4: 2rem;
+  --space-5: 4rem;
+  --page-width: 1280px;
+  --font-small: 0.8125rem;
+  --font-body: 1rem;
+}

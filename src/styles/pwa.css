@@ -1,0 +1,40 @@
+.offline-panel,
+.install-panel {
+  border-top: 1px solid var(--color-border);
+  padding: 2rem 0;
+  margin-top: 2rem;
+  line-height: 1.8;
+}
+.offline-panel progress {
+  width: min(100%, 480px);
+  height: 12px;
+  accent-color: #242422;
+}
+.update-prompt {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 60;
+  max-width: 420px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 40px #0002;
+}
+.pwa-updating {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: #fafaf9ee;
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+}
+@media (max-width: 760px) {
+  .update-prompt {
+    left: 1rem;
+    bottom: 90px;
+    max-width: none;
+  }
+}

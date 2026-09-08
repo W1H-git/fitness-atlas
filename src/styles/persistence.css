@@ -1,0 +1,73 @@
+.set-logger {
+  margin-top: 1.25rem;
+  border-top: 1px solid var(--color-border);
+  padding-top: 1.25rem;
+}
+.set-logger fieldset {
+  border: 0;
+  padding: 0;
+  min-width: 0;
+  margin: 1rem 0;
+}
+.set-logger label {
+  display: grid;
+  gap: 0.4rem;
+  margin: 0.6rem 0;
+  font-size: 0.85rem;
+}
+.set-logger input:not([type='checkbox']),
+.set-logger textarea {
+  width: 100%;
+  min-width: 0;
+  border: 1px solid #ccc;
+  padding: 0.65rem;
+  border-radius: 4px;
+  font: inherit;
+  background: white;
+  color: inherit;
+}
+.logger-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.4rem 1rem;
+  border: 1px solid #ddd;
+  padding: 0.8rem;
+  margin: 0.8rem 0;
+  border-radius: 5px;
+}
+.logger-row > strong {
+  grid-column: 1 / -1;
+}
+.logger-row .completed-check {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.record-success {
+  color: #305345;
+}
+.history-record,
+.history-drafts > article {
+  margin-bottom: 1rem;
+}
+.history-record h2 {
+  font-size: 1.2rem;
+}
+.history-record ul {
+  padding-left: 1.3rem;
+  line-height: 2;
+}
+.backup-panel {
+  border-top: 1px solid var(--color-border);
+  margin-top: 3rem;
+  padding: 2rem 0;
+  line-height: 1.8;
+}
+.backup-panel .button {
+  cursor: pointer;
+}
+@media (max-width: 360px) {
+  .logger-row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
