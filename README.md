@@ -1,8 +1,8 @@
 # 健身动作图鉴 · Fitness Atlas
 
-部署准备：已关联仓库 https://github.com/W1H-git/fitness-atlas，GitHub Pages 工作流和本地验收已准备，尚未发布公网网址。发布步骤见 docs/deployment.md，线上验收见 docs/acceptance-checklist.md。第七阶段尚未完成。
+公网已发布：[打开健身动作图鉴](https://w1h-git.github.io/fitness-atlas/)。部署与线上验证结果见 docs/stage-7.md；真机安装及人工验收待确认，详见 docs/acceptance-checklist.md。
 
-当前进度：阶段 6，PWA 与离线图鉴已实现。支持302个动作的三帧详情、主要肌群标红、个人日程、训练记录、草稿恢复和 JSON 备份，以及应用安装、906 帧图解下载与手动更新。运行 npm run build，再运行 npm run preview，在生产预览的“我的”中下载完整图鉴。开发模式不启用离线缓存。第六阶段验证见 docs/stage-6.md；公网部署与分享留到第七阶段。
+当前进度：阶段 6，PWA 与离线图鉴已实现。支持302个动作的三帧详情、主要肌群标红、个人日程、训练记录、草稿恢复和 JSON 备份，以及应用安装、906 帧图解下载与手动更新。运行 npm run build，再运行 npm run preview，在生产预览的“我的”中下载完整图鉴。开发模式不启用离线缓存。第六阶段验证见 docs/stage-6.md；公网网址现在可以分享给同学。
 
 ## VSCode 启动
 

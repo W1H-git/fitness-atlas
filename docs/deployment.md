@@ -1,6 +1,6 @@
 # 部署到 GitHub Pages
 
-当前状态：本地工程已初始化 main 分支并关联 https://github.com/W1H-git/fitness-atlas.git，部署配置与本地验收已准备。尚未发布公网网址，第七阶段必须在线上验收后才算完成。
+当前状态：已连接 W1H-git/fitness-atlas，代码已推送，Pages 来源为 GitHub Actions。公网已发布：https://w1h-git.github.io/fitness-atlas/ 。验证记录见 stage-7.md，真机安装仍待用户确认。
 
 ## 创建仓库
 
