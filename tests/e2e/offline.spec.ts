@@ -47,6 +47,8 @@ test('full catalog download, offline navigation and training persistence', async
   await first.getByRole('button', { name: '完成并保存训练' }).click()
   await expect(first.locator('.record-success')).toBeVisible()
   await page.getByRole('link', { name: '查看训练历史与草稿 →', exact: true }).click()
+  await expect(page).toHaveURL(/#\/history$/)
+  await expect(page.locator('.history-record')).toHaveCount(1)
   await page.reload()
   await expect(page.locator('.history-record')).toHaveCount(1)
   await page.screenshot({ path: 'work/stage-6/offline-history.png', fullPage: true })
